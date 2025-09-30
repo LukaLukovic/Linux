@@ -8,8 +8,8 @@ Calculating dependencies
 
  * See the CONFIGURATION FILES and CONFIGURATION FILES UPDATE TOOLS
  * sections of the emerge man page to learn how to update config files.
-... . .. . .... done!
-Dependency resolution took 13.46 s (backtrack: 0/20).
+........ done!
+Dependency resolution took 13.43 s (backtrack: 0/20).
 
 [ebuild     U  ] sys-kernel/linux-headers-6.16 [6.15]
 [ebuild     U  ] sys-libs/glibc-2.42-r1 [2.41-r2] USE="-sframe%" 
@@ -50,11 +50,11 @@ Dependency resolution took 13.46 s (backtrack: 0/20).
 [ebuild     U  ] sys-apps/gentoo-functions-1.7.4 [1.7.3]
 [ebuild     U  ] dev-lang/python-3.14.0_rc3 [3.14.0_beta2_p1]
 [ebuild     U  ] dev-build/ninja-1.13.1 [1.12.1]
+[ebuild     U  ] virtual/perl-Test-Harness-3.500.0-r1 [3.500.0]
+[ebuild     U  ] virtual/perl-Math-BigInt-2.5.2 [2.3.2]
+[ebuild     U  ] virtual/perl-Encode-3.210.0-r2 [3.210.0-r1]
 [ebuild     U  ] virtual/perl-Data-Dumper-2.192.0 [2.189.0]
 [ebuild     U  ] virtual/perl-CPAN-2.380.0 [2.360.0-r1]
-[ebuild     U  ] virtual/perl-Encode-3.210.0-r2 [3.210.0-r1]
-[ebuild     U  ] virtual/perl-Math-BigInt-2.5.2 [2.3.2]
-[ebuild     U  ] virtual/perl-Test-Harness-3.500.0-r1 [3.500.0]
 [ebuild     U  ] dev-libs/libxml2-2.13.9 [2.13.8]
 [ebuild     U  ] media-libs/libpng-1.6.50-r1 [1.6.49]
 [ebuild     U  ] x11-libs/libXfixes-6.0.2 [6.0.1]
@@ -509,10 +509,10 @@ Dependency resolution took 13.46 s (backtrack: 0/20).
 [ebuild     U  ] kde-plasma/powerdevil-6.4.5 [6.3.5-r2]
 [ebuild     U  ] kde-plasma/plasma-browser-integration-6.4.5 [6.3.5]
 [ebuild     U  ] kde-plasma/plasma-meta-6.4.5 [6.3.5-r1] USE="X%*" 
-[blocks B      ] <dev-qt/qtsvg-6.9.2:6 ("<dev-qt/qtsvg-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
 [blocks B      ] <dev-qt/qtdeclarative-6.9.2:6 ("<dev-qt/qtdeclarative-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
 [blocks B      ] <dev-qt/qtwayland-6.9.2:6 ("<dev-qt/qtwayland-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
 [blocks B      ] <dev-qt/qtshadertools-6.9.2:6 ("<dev-qt/qtshadertools-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[blocks B      ] <dev-qt/qtsvg-6.9.2:6 ("<dev-qt/qtsvg-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
 
 !!! Multiple package instances within a single package slot have been pulled
 !!! into the dependency graph, resulting in a slot conflict:
@@ -520,13 +520,13 @@ Dependency resolution took 13.46 s (backtrack: 0/20).
 dev-lang/perl:0
 
   (dev-lang/perl-5.42.0:0/5.42::gentoo, ebuild scheduled for merge) USE="gdbm -berkdb -doc -minimal" ABI_X86="(64)" PERL_FEATURES="(-debug) -ithreads -quadmath" pulled in by
-    =dev-lang/perl-5.42* required by (virtual/perl-CPAN-2.380.0:0/0::gentoo, ebuild scheduled for merge) USE="" ABI_X86="(64)"
-    ^              ^^^^^                                                                                                       
+    =dev-lang/perl-5.42* required by (virtual/perl-IO-Compress-2.213.0:0/0::gentoo, ebuild scheduled for merge) USE="" ABI_X86="(64)"
+    ^              ^^^^^                                                                                                              
     (and 28 more with the same problem)
 
   (dev-lang/perl-5.40.2-1:0/5.40::gentoo, installed) USE="gdbm -berkdb -doc -minimal" ABI_X86="(64)" PERL_FEATURES="(-debug) -ithreads -quadmath" pulled in by
-    dev-lang/perl:0/5.40= required by (dev-perl/Clone-0.470.0-1:0/0::gentoo, installed) USE="-test" ABI_X86="(64)" PERL_FEATURES="(-debug) -ithreads -quadmath"
-                 ^^^^^^^^                                                                                                                                       
+    dev-lang/perl:0/5.40= required by (dev-perl/IO-Socket-INET6-2.730.0-1:0/0::gentoo, installed) USE="-test" ABI_X86="(64)" PERL_FEATURES="(-debug) -ithreads -quadmath"
+                 ^^^^^^^^                                                                                                                                                 
     (and 26 more with the same problem)
 
 dev-qt/qtsvg:6
@@ -542,8 +542,8 @@ dev-qt/qtsvg:6
 dev-qt/qtdeclarative:6
 
   (dev-qt/qtdeclarative-6.9.2-r1:6/6.9.2::gentoo, ebuild scheduled for merge) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)" pulled in by
-    ~dev-qt/qtdeclarative-6.9.2:6 required by (dev-qt/qtwebchannel-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="qml -custom-cflags -test" ABI_X86="(64)"
-    ^                     ^^^^^^^                                                                                                                                   
+    ~dev-qt/qtdeclarative-6.9.2:6 required by (dev-qt/qtmultimedia-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="X alsa dbus ffmpeg opengl pipewire pulseaudio qml vulkan wayland -custom-cflags -eglfs -gstreamer -test -v4l -vaapi" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                                                                                                              
     (and 11 more with the same problem)
 
   (dev-qt/qtdeclarative-6.9.1-r1-1:6/6.9.1::gentoo, installed) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)" pulled in by
@@ -563,13 +563,13 @@ dev-qt/qtwayland:6
 dev-qt/qtbase:6
 
   (dev-qt/qtbase-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)" pulled in by
-    ~dev-qt/qtbase-6.9.2:6[dbus?] required by (dev-qt/qtmultimedia-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="X alsa dbus ffmpeg opengl pipewire pulseaudio qml vulkan wayland -custom-cflags -eglfs -gstreamer -test -v4l -vaapi" ABI_X86="(64)"
-    ^              ^^^^^^^                                                                                                                                                                                                                                     
+    ~dev-qt/qtbase-6.9.2:6[gui,network] required by (dev-qt/qtnetworkauth-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="-custom-cflags -test" ABI_X86="(64)"
+    ^              ^^^^^^^                                                                                                                                             
     (and 23 more with the same problem)
 
   (dev-qt/qtbase-6.9.1-1:6/6.9.1::gentoo, installed) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)" pulled in by
-    ~dev-qt/qtbase-6.9.1:6[-accessibility,gui,network,opengl,sql,ssl,vulkan,widgets] required by (dev-qt/qtdeclarative-6.9.1-r1-1:6/6.9.1::gentoo, installed) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)"
-    ^              ^^^^^^^                                                                                                                                                                                                                                             
+    ~dev-qt/qtbase-6.9.1:6[-accessibility,gui,opengl,vulkan,wayland] required by (dev-qt/qtwayland-6.9.1-1:6/6.9.1::gentoo, installed) USE="qml vulkan -accessibility -compositor -custom-cflags -gnome -test" ABI_X86="(64)"
+    ^              ^^^^^^^                                                                                                                                                                                                    
     (and 3 more with the same problem)
 
 dev-qt/qtshadertools:6
