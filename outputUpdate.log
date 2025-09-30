@@ -1,0 +1,656 @@
+setlocale: unsupported locale setting
+setlocale: unsupported locale setting
+
+ * IMPORTANT: 22 config files in '/etc/portage' need updating.
+Calculating dependencies  
+ * IMPORTANT: 29 news items need reading for repository 'gentoo'.
+ * Use eselect news read to view new items.
+
+ * See the CONFIGURATION FILES and CONFIGURATION FILES UPDATE TOOLS
+ * sections of the emerge man page to learn how to update config files.
+... . .. . .... done!
+Dependency resolution took 13.46 s (backtrack: 0/20).
+
+[ebuild     U  ] sys-kernel/linux-headers-6.16 [6.15]
+[ebuild     U  ] sys-libs/glibc-2.42-r1 [2.41-r2] USE="-sframe%" 
+[ebuild     U  ] sys-libs/ncurses-6.5_p20250802 [6.5_p20250531]
+[ebuild     U  ] media-libs/libogg-1.3.6 [1.3.5-r2]
+[ebuild     U  ] sys-apps/baselayout-2.18 [2.17]
+[ebuild     U  ] llvm-core/llvm-common-21.1.2 [20.1.6]
+[ebuild   R    ] sys-apps/findutils-4.10.0  USE="-test-full%" 
+[ebuild     U  ] dev-util/pkgconf-2.5.1 [2.4.3]
+[ebuild     U  ] sys-apps/hwdata-0.399 [0.391]
+[ebuild     U  ] x11-terms/kitty-shell-integration-0.43.0 [0.42.2]
+[ebuild     U  ] dev-lang/go-1.25.1 [1.24.3]
+[ebuild     U  ] net-wireless/wireless-regdb-20250710 [20250220]
+[ebuild     U  ] dev-libs/libaio-0.3.113_p8 [0.3.113-r1]
+[ebuild     U  ] sys-firmware/sof-firmware-2025.05.1 [2025.01.1] USE="-tools*" 
+[ebuild     U  ] sys-apps/sysvinit-3.15 [3.14]
+[ebuild     U  ] x11-terms/kitty-terminfo-0.43.0 [0.42.2]
+[ebuild     U  ] app-shells/bash-5.3_p3-r2 [5.3_p3]
+[ebuild     U  ] dev-libs/nettle-3.10.2 [3.10.1]
+[ebuild     U  ] dev-libs/openssl-3.5.3 [3.5.0]
+[ebuild     U  ] dev-libs/libpcre2-10.46 [10.45]
+[ebuild   R    ] app-arch/xz-utils-5.8.1-r1  ABI_X86="32*" 
+[ebuild     U  ] app-portage/elt-patches-20250718 [20250306]
+[ebuild     U  ] sys-apps/util-linux-2.41.2 [2.41.1-r1]
+[ebuild     U  ] dev-libs/libffi-3.5.2 [3.5.0]
+[ebuild     U  ] sys-libs/gdbm-1.26 [1.25]
+[ebuild     U  ] dev-lang/perl-5.42.0 [5.40.2]
+[ebuild     U  ] dev-build/autoconf-2.72-r3 [2.72-r1]
+[ebuild     U  ] dev-build/automake-1.18.1 [1.18]
+[ebuild     U  ] dev-libs/expat-2.7.3 [2.7.1]
+[ebuild     U  ] dev-lang/python-3.13.7 [3.13.4]
+[ebuild     U  ] dev-python/more-itertools-10.8.0 [10.7.0]
+[ebuild     U  ] dev-python/jaraco-functools-4.3.0 [4.1.0]
+[ebuild     U  ] dev-python/jaraco-collections-5.2.1 [5.1.0]
+[ebuild     U  ] dev-python/platformdirs-4.4.0 [4.3.8]
+[ebuild     U  ] dev-python/setuptools-80.9.0-r1 [80.9.0]
+[ebuild     U  ] dev-build/meson-1.9.1 [1.8.1] PYTHON_TARGETS="-python3_14%" 
+[ebuild     U  ] sys-apps/gentoo-functions-1.7.4 [1.7.3]
+[ebuild     U  ] dev-lang/python-3.14.0_rc3 [3.14.0_beta2_p1]
+[ebuild     U  ] dev-build/ninja-1.13.1 [1.12.1]
+[ebuild     U  ] virtual/perl-Data-Dumper-2.192.0 [2.189.0]
+[ebuild     U  ] virtual/perl-CPAN-2.380.0 [2.360.0-r1]
+[ebuild     U  ] virtual/perl-Encode-3.210.0-r2 [3.210.0-r1]
+[ebuild     U  ] virtual/perl-Math-BigInt-2.5.2 [2.3.2]
+[ebuild     U  ] virtual/perl-Test-Harness-3.500.0-r1 [3.500.0]
+[ebuild     U  ] dev-libs/libxml2-2.13.9 [2.13.8]
+[ebuild     U  ] media-libs/libpng-1.6.50-r1 [1.6.49]
+[ebuild     U  ] x11-libs/libXfixes-6.0.2 [6.0.1]
+[ebuild   R    ] media-libs/libepoxy-1.5.10-r3  ABI_X86="32*" 
+[ebuild   R    ] x11-libs/libICE-1.1.2  ABI_X86="32*" 
+[ebuild   R    ] dev-libs/libgpg-error-1.55  ABI_X86="32*" 
+[ebuild     U  ] x11-libs/pixman-0.46.4 [0.46.2-r1]
+[ebuild     U  ] sys-apps/coreutils-9.8-r1 [9.7] USE="-test-full%" 
+[ebuild     U  ] dev-python/setuptools-scm-9.2.0 [8.3.1]
+[ebuild   R    ] app-arch/lz4-1.10.0-r1  ABI_X86="32*" 
+[ebuild   R    ] dev-libs/libevdev-1.13.4  ABI_X86="32*" 
+[ebuild   R    ] dev-libs/elfutils-0.193  USE="lzma*" ABI_X86="32*" 
+[ebuild   R    ] sys-apps/grep-3.12  USE="-test-full%" 
+[ebuild   R    ] sys-apps/sed-4.9-r1  USE="-test-full%" 
+[ebuild     U  ] dev-python/ensurepip-pip-25.2 [25.1.1] USE="(test-rust%*) -test%" PYTHON_TARGETS="python3_13%* -pypy3_11% -python3_11% -python3_12% -python3_14%" 
+[ebuild     U  ] dev-python/trove-classifiers-2025.9.11.17 [2025.5.9.12] USE="-verify-provenance%" 
+[ebuild   R    ] x11-libs/libXinerama-1.1.5  ABI_X86="32*" 
+[ebuild     U  ] dev-build/make-4.4.1-r101 [4.4.1-r100]
+[ebuild     U  ] dev-python/charset-normalizer-3.4.3 [3.4.2]
+[ebuild   R    ] dev-libs/libusb-1.0.29  ABI_X86="32*" 
+[ebuild   R    ] media-libs/glu-9.0.3  ABI_X86="32*" 
+[ebuild     U  ] sys-apps/kbd-2.9.0 [2.8.0] USE="bzip2%* zlib%* -lzma% -zstd%" 
+[ebuild     U  ] virtual/perl-ExtUtils-MakeMaker-7.760.0 [7.700.0-r1]
+[ebuild     U  ] virtual/perl-Exporter-5.790.0 [5.780.0]
+[ebuild     U  ] virtual/perl-Carp-1.540.0-r2 [1.540.0-r1]
+[ebuild     U  ] sys-apps/texinfo-7.2-r3 [7.2]
+[ebuild     U  ] dev-libs/nss-3.116 [3.114]
+[ebuild   R    ] x11-libs/libpciaccess-0.18.1  ABI_X86="32*" 
+[ebuild     U  ] sys-fs/fuse-3.17.4 [3.17.2]
+[ebuild     U  ] virtual/perl-File-Spec-3.940.0 [3.910.0-r1]
+[ebuild     U  ] dev-python/pyparsing-3.2.5 [3.2.3]
+[ebuild     U  ] virtual/perl-Time-Local-1.350.0-r1 [1.350.0]
+[ebuild     U  ] virtual/perl-MIME-Base64-3.160.100_rc-r2 [3.160.100_rc-r1]
+[ebuild     U  ] media-libs/dav1d-1.5.1 [1.5.0]
+[ebuild     U  ] net-libs/nghttp3-1.12.0 [1.10.1]
+[ebuild  N     ] llvm-runtimes/clang-rtlib-config-20  USE="-default-compiler-rt" ABI_X86="32 (64)" 
+[ebuild  N     ] llvm-runtimes/clang-stdlib-config-20  USE="-default-libcxx" 
+[ebuild  N     ] llvm-runtimes/clang-rtlib-config-21  USE="-default-compiler-rt" ABI_X86="32 (64)" 
+[ebuild  N     ] llvm-runtimes/clang-stdlib-config-21  USE="-default-libcxx" 
+[ebuild     U  ] media-libs/libdisplay-info-0.3.0 [0.2.0-r1]
+[ebuild     U  ] dev-python/markupsafe-3.0.3 [3.0.2]
+[ebuild     U  ] dev-python/cython-3.1.4 [3.1.2]
+[ebuild     U  ] virtual/perl-IO-1.550.0-r1 [1.550.0]
+[ebuild     U  ] virtual/perl-ExtUtils-CBuilder-0.280.242-r2 [0.280.240]
+[ebuild     U  ] virtual/perl-XSLoader-0.320.0-r2 [0.320.0-r1]
+[ebuild     U  ] virtual/perl-Compress-Raw-Bzip2-2.213.0 [2.212.0]
+[ebuild     U  ] virtual/perl-Compress-Raw-Zlib-2.213.0-r1 [2.213.0]
+[ebuild     U  ] dev-perl/Socket6-0.290.0-r2 [0.290.0]
+[ebuild   R    ] x11-libs/libvdpau-1.5  ABI_X86="32*" 
+[ebuild     U  ] media-libs/libvpx-1.15.2 [1.14.1]
+[ebuild  N     ] llvm-runtimes/clang-unwindlib-config-20  USE="-default-compiler-rt -llvm-libunwind" 
+[ebuild  N     ] llvm-runtimes/clang-unwindlib-config-21  USE="-default-compiler-rt -llvm-libunwind" 
+[ebuild     U  ] x11-libs/libXScrnSaver-1.2.5 [1.2.4] ABI_X86="32*" 
+[ebuild     U  ] dev-libs/libpcre-8.45-r4 [8.45-r3]
+[ebuild  N     ] dev-perl/Capture-Tiny-0.500.0-r1  USE="-examples -test" PERL_FEATURES="(-debug) -ithreads -quadmath" 
+[ebuild     U  ] net-libs/libtorrent-0.15.7 [0.15.5]
+[ebuild     U  ] dev-python/psutil-7.1.0 [7.0.0]
+[ebuild     U  ] dev-libs/inih-62 [60] USE="-test%" 
+[ebuild  N     ] x11-libs/libXres-1.2.3  USE="-doc" 
+[ebuild     U  ] dev-python/typing-extensions-4.15.0 [4.14.0]
+[ebuild  N     ] dev-perl/Crypt-URandom-0.540.0  USE="-test" PERL_FEATURES="(-debug) -ithreads -quadmath" 
+[ebuild     U  ] dev-perl/Text-CSV_XS-1.610.0 [1.600.0-r1]
+[ebuild     U  ] dev-libs/libsodium-1.0.20_p20250606 [1.0.20]
+[ebuild     U  ] app-editors/vim-core-9.1.1652 [9.1.1500]
+[ebuild     U  ] virtual/perl-Digest-MD5-2.590.0 [2.580.100_rc-r1]
+[ebuild     U  ] virtual/perl-Digest-SHA-6.40.0-r2 [6.40.0-r1]
+[ebuild     U  ] virtual/perl-Text-ParseWords-3.310.0-r4 [3.310.0-r3]
+[ebuild     U  ] virtual/perl-ExtUtils-ParseXS-3.570.0 [3.510.0-r1]
+[ebuild     U  ] virtual/perl-Module-Metadata-1.0.38-r1 [1.0.38]
+[ebuild     U  ] virtual/perl-podlators-6.0.2 [5.10.200_rc]
+[ebuild     U  ] virtual/perl-version-0.993.300 [0.993.0]
+[ebuild     U  ] virtual/perl-JSON-PP-4.160.0-r3 [4.160.0-r2]
+[ebuild     U  ] virtual/perl-parent-0.244.0 [0.241.0-r1]
+[ebuild     U  ] dev-python/protobuf-6.32.1-r1 [6.31.1]
+[ebuild     U  ] x11-apps/xgamma-1.0.8 [1.0.7]
+[ebuild     U  ] sys-devel/gettext-0.23.2 [0.23.1-r1]
+[ebuild     U  ] media-libs/freetype-2.14.1 [2.13.3] USE="harfbuzz*" 
+[ebuild     U  ] dev-libs/libgcrypt-1.11.2 [1.11.1] ABI_X86="32*" 
+[ebuild   R    ] virtual/libusb-1-r2  ABI_X86="32*" 
+[ebuild   R    ] x11-libs/libSM-1.2.6  ABI_X86="32*" 
+[ebuild     U  ] sys-fs/e2fsprogs-1.47.3-r1 [1.47.3]
+[ebuild     U  ] dev-libs/libassuan-3.0.0-r1 [3.0.0]
+[ebuild     U  ] dev-libs/libinput-1.29.1 [1.28.1]
+[ebuild   R    ] virtual/glu-9.0-r2  ABI_X86="32*" 
+[ebuild   R    ] virtual/libelf-3-r1  ABI_X86="32*" 
+[ebuild     U  ] sys-fs/cryptsetup-2.8.1 [2.7.5-r1]
+[ebuild     U  ] net-misc/wget-1.25.0-r1 [1.25.0]
+[ebuild     U  ] sys-libs/binutils-libs-2.45-r1 [2.44-r2]
+[ebuild     U  ] dev-perl/IO-Socket-SSL-2.95.0 [2.90.0]
+[ebuild     U  ] net-libs/nghttp2-1.67.1 [1.66.0]
+[ebuild  N     ] dev-perl/PerlIO-utf8_strict-0.10.0  USE="-test" PERL_FEATURES="(-debug) -ithreads -quadmath" 
+[ebuild     U  ] sys-libs/slang-2.3.3-r2 [2.3.3-r1]
+[ebuild     U  ] dev-python/pyyaml-6.0.3 [6.0.2]
+[ebuild     U  ] virtual/logger-0-r2 [0-r1] USE="-systemd%" 
+[ebuild     U  ] virtual/perl-IO-Compress-2.213.0 [2.212.0]
+[ebuild     U  ] virtual/perl-CPAN-Meta-2.150.10-r11 [2.150.10-r9]
+[ebuild   R    ] dev-python/pyudev-0.24.3  USE="(-qt5%*)" 
+[ebuild   R    ] dev-libs/libxslt-1.1.43-r1  USE="-debugger%" 
+[ebuild     U  ] sys-auth/pambase-20250906 [20250228-r1]
+[ebuild     U  ] app-text/iso-codes-4.18.0 [4.17.0]
+[ebuild     U  ] net-misc/curl-8.16.0-r1 [8.15.0]
+[ebuild     U  ] virtual/perl-libnet-3.150.0-r2 [3.150.0-r1]
+[ebuild     U  ] dev-perl/Module-Build-0.423.400-r5 [0.423.400-r4]
+[ebuild  N     ] dev-perl/File-Slurper-0.14.0  USE="-examples -test" PERL_FEATURES="(-debug) -ithreads -quadmath" 
+[ebuild     U  ] dev-libs/libei-1.5.0 [1.4.1]
+[ebuild     U  ] dev-perl/Authen-SASL-2.190.0 [2.180.0]
+[ebuild     U  ] media-libs/fontconfig-2.17.1 [2.16.2-r1]
+[ebuild     U  ] app-crypt/p11-kit-0.25.10 [0.25.5]
+[ebuild     U  ] x11-misc/xkeyboard-config-2.45-r1 [2.45]
+[ebuild     U  ] sys-apps/locale-gen-3.8 [2.23-r1]
+[ebuild     U  ] dev-lang/lua-5.4.8 [5.4.6]
+[ebuild     U  ] dev-build/cmake-4.1.1 [4.0.2-r1]
+[ebuild     U  ] dev-python/lxml-6.0.2 [5.4.0-r2]
+[ebuild  NS    ] dev-lang/rust-bin-1.89.0 [1.88.0]
+[ebuild     U  ] media-fonts/noto-emoji-20250912 [20250618]
+[ebuild     U  ] dev-python/pygments-2.19.2 [2.19.1]
+[ebuild     U  ] media-fonts/noto-20250901 [20250601]
+[ebuild     U  ] dev-python/soupsieve-2.8 [2.7]
+[ebuild     U  ] dev-perl/Error-0.170.300-r1 [0.170.300]
+[ebuild     U  ] net-p2p/rtorrent-0.15.7 [0.15.5]
+[ebuild     U  ] media-libs/libjpeg-turbo-3.1.2 [3.1.1] USE="-test%" 
+[ebuild     U  ] net-libs/gnutls-3.8.10 [3.8.9-r1]
+[ebuild     U  ] dev-python/urllib3-2.5.0 [2.4.0]
+[ebuild     U  ] media-sound/mpg123-base-1.33.1 [1.33.0]
+[ebuild     U  ] media-gfx/graphite2-1.3.14_p20210810-r4 [1.3.14_p20210810-r3] PERL_FEATURES="(-debug) -ithreads% -quadmath%" 
+[ebuild  N     ] dev-libs/md4c-0.5.2  USE="md2html -test" 
+[ebuild     U  ] kde-frameworks/extra-cmake-modules-6.18.0 [6.14.0-r1]
+[ebuild  N     ] net-libs/libssh2-1.11.1  USE="zlib -gcrypt -mbedtls -test" ABI_X86="(64) -32 (-x32)" 
+[ebuild     U  ] dev-util/spirv-headers-1.4.321.0 [1.4.313.0]
+[ebuild     U  ] dev-perl/Net-HTTP-6.240.0 [6.230.0]
+[ebuild     U  ] llvm-runtimes/openmp-21.1.2 [20.1.8]
+[ebuild     U  ] dev-cpp/abseil-cpp-20250512.0-r1 [20250512.0]
+[ebuild     U  ] media-gfx/exiv2-0.28.7 [0.28.5]
+[ebuild  N     ] dev-cpp/fast_float-8.0.2  USE="-test" 
+[ebuild     U  ] dev-libs/libfmt-11.2.0-r1 [11.2.0]
+[ebuild  N     ] net-libs/llhttp-9.2.1 
+[ebuild     U  ] sys-libs/pam_wrapper-1.1.8 [1.1.5]
+[ebuild     U  ] media-libs/libaom-3.12.1 [3.10.0]
+[ebuild     U  ] dev-libs/flatbuffers-25.9.23 [25.2.10]
+[ebuild     U  ] media-libs/assimp-6.0.2 [5.4.3-r1]
+[ebuild     U  ] media-libs/taglib-2.1.1 [2.1]
+[ebuild     U  ] net-libs/libssh-0.11.3 [0.11.1-r1]
+[ebuild     U  ] dev-python/beautifulsoup4-4.14.2 [4.13.4]
+[ebuild     U  ] net-misc/openssh-10.0_p2 [10.0_p1]
+[ebuild     U  ] dev-cpp/range-v3-0.12.0-r1 [0.12.0]
+[ebuild     U  ] dev-python/requests-2.32.5 [2.32.3]
+[ebuild     U  ] dev-util/spirv-tools-1.4.321.0 [1.4.313.0] USE="-test%" 
+[ebuild  N     ] dev-libs/libgit2-1.9.1  USE="ssh threads -examples -gssapi -test -trace" 
+[ebuild     U  ] net-libs/ngtcp2-1.16.0 [1.13.0]
+[ebuild     U  ] sys-kernel/dracut-108-r3 [107] USE="-dracut-cpio*" 
+[ebuild     U  ] virtual/openssh-0-r1 [0]
+[ebuild   R    ] media-libs/lcms-2.17  ABI_X86="32*" 
+[ebuild     U  ] media-libs/libwebp-1.5.0 [1.4.0]
+[ebuild     U  ] dev-util/glslang-1.4.321.0 [1.4.313.0]
+[ebuild     U  ] net-libs/nodejs-24.7.0 [24.1.0]
+[ebuild  N     ] dev-util/cargo-c-0.10.16  USE="-debug" 
+[ebuild     U  ] sys-fs/cryfs-1.0.1-r2 [1.0.1-r1]
+[ebuild     U  ] sys-process/lsof-4.99.5 [4.99.4]
+[ebuild     U  ] dev-python/moddb-0.13.0 [0.12.0]
+[ebuild     U  ] media-libs/openjpeg-2.5.3-r1 [2.5.3]
+[ebuild     U  ] media-libs/shaderc-2025.3 [2025.2]
+[ebuild     U  ] net-mail/mailutils-3.20-r1 [3.19] PYTHON_SINGLE_TARGET="-python3_14%" 
+[ebuild     U  ] sys-libs/libnvme-1.15 [1.14] USE="-examples%" 
+[ebuild     U  ] sys-kernel/installkernel-63 [59-r1]
+[ebuild     U  ] dev-vcs/git-2.51.0 [2.50.1]
+[ebuild     U  ] sys-apps/portage-3.0.69.1-r1 [3.0.68]
+[ebuild  NS    ] llvm-core/llvm-21.1.2 [19.1.7, 20.1.8]
+[ebuild  NS    ] llvm-core/llvm-toolchain-symlinks-21 [19, 20-r1]
+[ebuild     U  ] llvm-core/llvmgold-21 [20]
+[ebuild     U  ] dev-lang/ruby-3.2.9 [3.2.8]
+[ebuild     U  ] dev-lang/ruby-3.3.9 [3.3.8]
+[ebuild     U  ] dev-ruby/rubygems-3.7.2 [3.6.9]
+[ebuild     U  ] dev-ruby/bundler-2.7.2 [2.6.9]
+[ebuild     U  ] dev-ruby/erb-5.0.2-r1 [5.0.1]
+[ebuild     U  ] dev-ruby/io-console-0.8.1 [0.8.0]
+[ebuild     U  ] dev-ruby/rexml-3.4.4 [3.4.1]
+[ebuild     U  ] dev-ruby/test-unit-3.7.0 [3.6.8]
+[ebuild     U  ] dev-ruby/json-2.15.0 [2.12.2]
+[ebuild     U  ] dev-ruby/reline-0.6.2 [0.6.1]
+[ebuild     U  ] dev-ruby/prism-1.5.1 [1.4.0]
+[ebuild     U  ] dev-ruby/rdoc-6.14.2-r1 [6.14.1-r1]
+[ebuild     U  ] dev-ruby/net-imap-0.5.10 [0.5.9]
+[ebuild     U  ] x11-libs/libxkbcommon-1.11.0 [1.10.0] ABI_X86="32*" 
+[ebuild     U  ] sys-devel/binutils-2.45-r1 [2.45]
+[ebuild   R    ] sys-libs/gpm-1.20.7-r6  ABI_X86="32*" 
+[ebuild  N     ] llvm-core/clang-linker-config-20  USE="-default-lld" 
+[ebuild  N     ] llvm-core/clang-linker-config-21  USE="-default-lld" 
+[ebuild     U  ] sys-boot/gnu-efi-4.0.2 [4.0.1]
+[ebuild     U  ] dev-libs/newt-0.52.25-r2 [0.52.25-r1] PYTHON_TARGETS="-python3_14%" 
+[ebuild     U  ] llvm-core/clang-common-21.1.2 [20.1.8]
+[ebuild     U  ] llvm-runtimes/compiler-rt-20.1.8-r1 [20.1.8]
+[ebuild     U  ] llvm-runtimes/compiler-rt-sanitizers-20.1.8-r1 [20.1.8]
+[ebuild     U  ] llvm-runtimes/clang-runtime-20.1.8-r1 [20.1.8]
+[ebuild  NS    ] llvm-core/clang-21.1.2 [20.1.8]
+[ebuild  NS    ] llvm-core/clang-toolchain-symlinks-21 [20]
+[ebuild  NS    ] llvm-runtimes/compiler-rt-21.1.2 [20.1.8]
+[ebuild  NS    ] llvm-runtimes/compiler-rt-sanitizers-21.1.2 [20.1.8]
+[ebuild  NS    ] llvm-runtimes/clang-runtime-21.1.2 [20.1.8]
+[ebuild  NS    ] sys-kernel/gentoo-kernel-bin-6.16.9 [6.16.1]
+[ebuild     U  ] virtual/dist-kernel-6.16.9 [6.16.1]
+[ebuild     U  ] sys-apps/openrc-0.63 [0.62.2]
+[ebuild     U  ] dev-util/wayland-scanner-1.24.0 [1.23.1]
+[ebuild     U  ] dev-libs/wayland-1.24.0 [1.23.1]
+[blocks b      ] <dev-libs/wayland-1.24.0 ("<dev-libs/wayland-1.24.0" is soft blocking dev-util/wayland-scanner-1.24.0)
+[ebuild     U  ] dev-libs/wayland-protocols-1.45 [1.44]
+[ebuild     U  ] media-libs/mesa-25.2.3 [25.1.3] USE="-sysprof%" LLVM_SLOT="20* -19*" 
+[ebuild   R    ] media-libs/libva-2.22.0-r1  ABI_X86="32*" 
+[ebuild     U  ] gui-libs/egl-wayland-1.1.20 [1.1.19]
+[ebuild     U  ] gui-libs/egl-x11-1.0.3 [1.0.2]
+[ebuild     U  ] dev-util/android-studio-2025.1.3.7 [2025.1.2.11]
+[ebuild     U  ] virtual/perl-Scalar-List-Utils-1.680.100_rc [1.680.0]
+[uninstall     ] perl-core/Scalar-List-Utils-1.680.0 
+[blocks b      ] <perl-core/Scalar-List-Utils-1.680.100_rc ("<perl-core/Scalar-List-Utils-1.680.100_rc" is soft blocking virtual/perl-Scalar-List-Utils-1.680.100_rc)
+[ebuild  N     ] dev-perl/Config-AutoConf-0.320.0  USE="-test" PERL_FEATURES="(-debug) -ithreads -quadmath" 
+[ebuild  N     ] dev-perl/Locale-gettext-1.70.0_p20181130  USE="-test" PERL_FEATURES="(-debug) -ithreads -quadmath" 
+[ebuild     U  ] dev-perl/libwww-perl-6.800.0 [6.780.0]
+[ebuild     U  ] dev-perl/XML-Parser-2.470.0-r1 [2.470.0] USE="-test%" 
+[ebuild     U  ] sci-libs/libqalculate-5.7.0 [5.5.2-r1] USE="curl*" 
+[ebuild  NS    ] dev-java/openjdk-bin-25_p36 [21.0.7_p6]
+[ebuild  NS    ] virtual/jdk-25-r1 [21]
+[ebuild  NS    ] virtual/jre-25 [21]
+[ebuild     U  ] kde-apps/libkexiv2-25.08.1 [25.04.2]
+[ebuild     U  ] kde-plasma/layer-shell-qt-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/ocean-sound-theme-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/knotifications-5.116.0-r2 [5.116.0-r1]
+[ebuild     U  ] app-editors/vim-9.1.1652-r1 [9.1.1500] PERL_FEATURES="(-debug) -ithreads% -quadmath%" 
+[ebuild     U  ] app-vim/gentoo-syntax-16 [15]
+[ebuild     U  ] sys-apps/osinfo-db-20250606 [20250124]
+[ebuild     U  ] x11-base/xwayland-24.1.8 [24.1.6]
+[ebuild     U  ] net-print/cups-2.4.14 [2.4.12]
+[ebuild     U  ] app-accessibility/at-spi2-core-2.56.5 [2.54.1-r1]
+[ebuild     U  ] app-crypt/gcr-3.41.2-r1 [3.41.1-r2] USE="X%* wayland%*" 
+[ebuild     U  ] app-crypt/gcr-4.4.0.1 [4.3.0]
+[ebuild     U  ] app-crypt/gpgme-1.24.3-r1 [1.24.3]
+[ebuild     U  ] app-emulation/libvirt-11.6.0-r1 [11.4.0]
+[ebuild     U  ] dev-python/libvirt-python-11.6.0 [11.4.0]
+[ebuild     U  ] app-emulation/qemu-10.1.0 [10.0.3] USE="-passt% -valgrind%" 
+[ebuild     U  ] app-text/enchant-2.8.12 [2.6.1]
+[ebuild     U  ] app-text/ghostscript-gpl-10.06.0 [10.05.1]
+[ebuild     U  ] dev-libs/appstream-1.0.6 [1.0.4-r1]
+[ebuild     U  ] dev-libs/json-glib-1.10.8 [1.10.6] ABI_X86="32*" 
+[ebuild   R    ] dev-libs/libgudev-238-r2  ABI_X86="32*" 
+[ebuild     U  ] dev-libs/plasma-wayland-protocols-1.19.0 [1.18.0]
+[ebuild     U  ] kde-plasma/kwayland-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kwayland-integration-6.4.5 [6.3.5]
+[ebuild     U  ] dev-python/docutils-0.22.2 [0.22]
+[ebuild     U  ] dev-util/glib-utils-2.84.4 [2.84.2]
+[ebuild     U  ] dev-libs/glib-2.84.4 [2.84.2]
+[ebuild     U  ] x11-misc/shared-mime-info-2.4-r3 [2.4-r2]
+[ebuild     U  ] media-libs/harfbuzz-12.0.0 [11.2.1]
+[ebuild     U  ] net-libs/libproxy-0.5.11 [0.5.9]
+[ebuild     U  ] sys-libs/libblockdev-3.3.1 [3.1.1-r1] USE="-python% -smart%" 
+[ebuild     U  ] dev-util/gdbus-codegen-2.84.4 [2.84.2]
+[blocks b      ] <dev-util/gdbus-codegen-2.84.4 ("<dev-util/gdbus-codegen-2.84.4" is soft blocking dev-libs/glib-2.84.4)
+[ebuild     U  ] net-libs/libmbim-1.32.0 [1.28.4-r1]
+[ebuild     U  ] dev-util/gtk-doc-1.34.0-r2 [1.34.0-r1]
+[ebuild     U  ] dev-libs/libjcat-0.2.3 [0.2.2]
+[ebuild     U  ] x11-libs/pango-1.57.0 [1.56.4] USE="-gtk-doc%" 
+[ebuild     UD ] dev-python/pygobject-3.50.1 [3.52.3]
+[ebuild     U  ] gnome-base/gnome-keyring-48.0 [46.2] USE="-ssh-agent*" 
+[ebuild     U  ] gnome-base/gsettings-desktop-schemas-48.0 [47.1]
+[ebuild     U  ] app-text/mupdf-1.26.3 [1.25.6] USE="jpeg2k%* -barcode% -brotli%" 
+[ebuild     U  ] net-libs/libqmi-1.36.0 [1.32.4-r1]
+[ebuild     U  ] dev-python/pillow-11.3.0 [11.2.1]
+[ebuild     U  ] x11-terms/kitty-0.43.0 [0.42.2-r1]
+[ebuild     U  ] gnome-base/librsvg-2.60.0 [2.58.5-r1] USE="-test%" 
+[ebuild     U  ] sys-power/switcheroo-control-3.0 [2.6-r2] VIDEO_CARDS="-amdgpu% -nouveau%" 
+[ebuild     U  ] x11-libs/gtk+-3.24.50 [3.24.49-r1] ABI_X86="32*" 
+[ebuild     U  ] x11-themes/adwaita-icon-theme-48.1 [47.0]
+[ebuild     U  ] x11-drivers/nvidia-drivers-580.82.09 [575.57.08]
+[ebuild     U  ] gui-libs/libdecor-0.2.3 [0.2.2-r1] ABI_X86="32*" 
+[ebuild     U  ] x11-misc/appmenu-gtk-module-25.04 [24.05-r2]
+[ebuild     U  ] net-im/discord-0.0.111 [0.0.104]
+[ebuild     U  ] net-libs/webkit-gtk-2.48.5-r411 [2.48.3-r411]
+[ebuild     U  ] gui-libs/gtk-4.18.6-r1 [4.18.5] USE="-gtk-doc%" 
+[ebuild     U  ] gui-libs/vte-common-0.80.4 [0.78.5]
+[ebuild     U  ] x11-libs/vte-0.80.4 [0.78.5]
+[ebuild     U  ] sys-auth/polkit-126-r2 [123-r1] USE="-nls%" 
+[ebuild     U  ] sys-fs/udisks-2.10.2 [2.10.1-r3]
+[ebuild     U  ] net-misc/modemmanager-1.24.0 [1.20.6]
+[ebuild     U  ] app-emulation/libvirt-11.4.0-r1 [11.4.0]
+[ebuild     U  ] app-emulation/virt-manager-5.1.0 [5.0.0-r2]
+[ebuild     U  ] media-video/pipewire-1.4.8 [1.4.7-r2]
+[ebuild     U  ] media-video/wireplumber-0.5.11 [0.5.10]
+[ebuild   R    ] media-libs/libsdl2-2.32.8  ABI_X86="32*" 
+[ebuild     U  ] media-video/ffmpeg-7.1.2 [7.1.1-r1]
+[ebuild     U  ] app-emulation/xen-tools-4.19.3 [4.19.2-r1]
+[ebuild     U  ] media-video/vlc-3.0.22_rc1-r2 [3.0.21_p20250217-r2]
+[ebuild     U  ] media-sound/sox-14.6.0.4 [14.4.2_p20210509-r3] USE="ffmpeg%* -fftw% -speexdsp%" 
+[ebuild     U  ] www-client/firefox-143.0 [141.0.3]
+[ebuild     U  ] dev-qt/qtbase-6.9.2 [6.9.1]
+[ebuild     U  ] dev-qt/qtwayland-6.9.2 [6.9.1]
+[ebuild     U  ] kde-frameworks/breeze-icons-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qtsvg-6.9.2 [6.9.1]
+[ebuild     U  ] dev-qt/qtshadertools-6.9.2 [6.9.1]
+[ebuild     U  ] kde-frameworks/kidletime-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/attica-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/plasma-workspace-wallpapers-6.4.5 [6.3.5]
+[ebuild     U  ] dev-qt/qtimageformats-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qtimageformats-6.9.2:6 ("<dev-qt/qtimageformats-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] kde-frameworks/modemmanager-qt-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qtnetworkauth-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qtnetworkauth-6.9.2:6 ("<dev-qt/qtnetworkauth-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] dev-qt/qtdeclarative-6.9.2-r1 [6.9.1-r1]
+[ebuild     U  ] kde-frameworks/ki18n-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kguiaddons-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qt5compat-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qt5compat-6.9.2:6 ("<dev-qt/qt5compat-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] dev-qt/qttools-6.9.2 [6.9.1] LLVM_SLOT="20* -19*" 
+[blocks b      ] <dev-qt/qttools-6.9.2:6 ("<dev-qt/qttools-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] kde-frameworks/kitemmodels-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/networkmanager-qt-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qtsensors-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qtsensors-6.9.2:6 ("<dev-qt/qtsensors-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] kde-frameworks/kquickcharts-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qtpositioning-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qtpositioning-6.9.2:6 ("<dev-qt/qtpositioning-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] dev-qt/qtquicktimeline-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qtquicktimeline-6.9.2:6 ("<dev-qt/qtquicktimeline-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] dev-qt/qtwebchannel-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qtwebchannel-6.9.2:6 ("<dev-qt/qtwebchannel-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] kde-frameworks/kconfig-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kwidgetsaddons-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kwindowsystem-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kdbusaddons-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kirigami-6.18.0 [6.14.1]
+[ebuild     U  ] kde-frameworks/kglobalaccel-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/karchive-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/solid-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kitemviews-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcodecs-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/sonnet-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qttranslations-6.9.2 [6.9.1]
+[ebuild     U  ] kde-plasma/kdecoration-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/syntax-highlighting-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qtquick3d-6.9.2-r1 [6.9.1]
+[blocks b      ] <dev-qt/qtquick3d-6.9.2:6 ("<dev-qt/qtquick3d-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] kde-frameworks/kunitconversion-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kholidays-6.18.0 [6.14.0]
+[ebuild     U  ] media-libs/opencv-4.12.0-r1 [4.11.0] USE="features2d* -wechat-qrcode%" 
+[ebuild  N     ] dev-qt/qtlocation-6.9.2  USE="-custom-cflags -test" 
+[ebuild     U  ] kde-frameworks/kdnssd-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qtwebengine-6.9.2-r1 [6.9.1-r1]
+[blocks b      ] <dev-qt/qtwebengine-6.9.2:6 ("<dev-qt/qtwebengine-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] sys-apps/qdirstat-1.9_p20250726-r1 [1.9]
+[ebuild     U  ] kde-frameworks/kcoreaddons-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/knotifications-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kdoctools-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcolorscheme-6.18.0 [6.14.0]
+[ebuild     U  ] app-crypt/pinentry-1.3.2-r1 [1.3.1-r1]
+[ebuild     U  ] kde-frameworks/kstatusnotifieritem-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qtmultimedia-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qtmultimedia-6.9.2:6 ("<dev-qt/qtmultimedia-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] kde-plasma/libkscreen-6.4.5 [6.3.5]
+[ebuild  N     ] kde-frameworks/kimageformats-6.18.0  USE="-avif -debug -eps -heif -jpeg2k -jpegxl -openexr -raw -test" 
+[ebuild     U  ] dev-qt/qtwebview-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qtwebview-6.9.2:6 ("<dev-qt/qtwebview-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] kde-frameworks/kservice-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcrash-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kconfigwidgets-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kiconthemes-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kjobwidgets-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcompletion-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/plasma-activities-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/kpackage-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/ksvg-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kde-cli-tools-common-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/krunner-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kfilemetadata-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kpty-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kpipewire-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/prison-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kde-gtk-config-6.4.5 [6.3.5]
+[ebuild     U  ] dev-qt/qtspeech-6.9.2 [6.9.1]
+[blocks b      ] <dev-qt/qtspeech-6.9.2:6 ("<dev-qt/qtspeech-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[ebuild     U  ] kde-frameworks/kxmlgui-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kbookmarks-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/ktextwidgets-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kded-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kdeclarative-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/plasma-activities-stats-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/qqc2-desktop-style-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kwrited-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/qqc2-breeze-style-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/kdesu-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kdesu-gui-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/kauth-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kwallet-6.18.0 [6.14.1]
+[ebuild     U  ] kde-frameworks/kwallet-runtime-6.18.0 [6.14.1]
+[ebuild     U  ] kde-plasma/kwallet-pam-6.4.5 [6.4.4]
+[ebuild     U  ] kde-plasma/ksshaskpass-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/kio-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcmutils-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/libplasma-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/kparts-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kglobalacceld-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma5support-6.4.5 [6.3.5] USE="-ksysguard%" 
+[ebuild     U  ] kde-frameworks/baloo-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/knotifyconfig-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kactivitymanagerd-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/purpose-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kmenuedit-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/spectacle-6.4.5 [6.3.5]
+[ebuild     U  ] media-gfx/kio-ps-thumbnailer-25.08.1 [25.04.3]
+[ebuild     U  ] kde-plasma/polkit-kde-agent-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kde-cli-tools-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/keditfiletype-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/knewstuff-6.18.0 [6.14.0]
+[ebuild     U  ] dev-libs/kirigami-addons-1.10.0 [1.8.1]
+[ebuild     U  ] kde-plasma/kscreenlocker-6.4.5 [6.3.5]
+[ebuild     U  ] kde-apps/kio-extras-25.08.1 [25.04.3]
+[ebuild     U  ] kde-plasma/milou-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/systemsettings-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kgamma-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kscreen-6.4.5 [6.3.5-r1]
+[ebuild     U  ] kde-plasma/print-manager-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-nm-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/ktexteditor-6.18.0 [6.14.0]
+[ebuild     U  ] kde-apps/baloo-widgets-25.08.1 [25.04.3]
+[ebuild     U  ] kde-apps/thumbnailers-25.08.1 [25.04.3]
+[ebuild     U  ] kde-apps/ark-25.08.1 [25.04.3]
+[ebuild     U  ] kde-plasma/libksysguard-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/aurorae-6.4.5 [6.3.5-r1]
+[ebuild     U  ] kde-frameworks/kio-5.116.0-r5 [5.116.0-r4]
+[ebuild     U  ] kde-plasma/kinfocenter-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/frameworkintegration-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kdeplasma-addons-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-welcome-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/sddm-kcm-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-pa-6.4.5 [6.3.5]
+[ebuild     U  ] kde-apps/dolphin-25.08.1 [25.04.3]
+[ebuild     U  ] kde-apps/konsole-25.08.1 [25.04.3]
+[ebuild     U  ] kde-plasma/discover-6.4.5 [6.4.4]
+[ebuild     U  ] kde-plasma/breeze-6.4.5 [6.3.5-r1]
+[ebuild     U  ] kde-plasma/ksystemstats-6.4.5 [6.3.5] USE="filecaps%*" 
+[ebuild     U  ] kde-plasma/plasma-vault-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-disks-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/oxygen-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kwin-6.4.5 [6.3.5-r1] USE="(X%*)" 
+[ebuild     U  ] kde-plasma/plasma-systemmonitor-6.4.5 [6.3.5] USE="-test%" 
+[ebuild     U  ] kde-plasma/breeze-gtk-6.4.5 [6.3.5]
+[ebuild  N     ] kde-plasma/kwin-x11-6.4.5  USE="handbook lock shortcuts -accessibility -debug -gles2-only -systemd -test" 
+[ebuild     U  ] kde-plasma/plasma-login-sessions-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-integration-6.4.5 [6.3.5]
+[ebuild  N     ] kde-plasma/drkonqi-legacy-6.3.80_p20250417  USE="-debug -test" PYTHON_SINGLE_TARGET="python3_13 -python3_11 -python3_12" 
+[uninstall     ] kde-plasma/drkonqi-6.3.5-r1 
+[blocks b      ] kde-plasma/drkonqi ("kde-plasma/drkonqi" is soft blocking kde-plasma/drkonqi-legacy-6.3.80_p20250417)
+[ebuild     U  ] kde-plasma/plasma-workspace-6.4.5-r1 [6.3.5-r2] USE="X%* ksysguard%*" 
+[ebuild     U  ] kde-plasma/xdg-desktop-portal-kde-6.4.5 [6.3.5-r1]
+[ebuild     U  ] kde-plasma/plasma-desktop-6.4.5 [6.3.5-r1]
+[blocks b      ] <kde-plasma/plasma-desktop-6.3.80 ("<kde-plasma/plasma-desktop-6.3.80" is soft blocking kde-plasma/plasma-workspace-6.4.5-r1)
+[ebuild     U  ] kde-plasma/powerdevil-6.4.5 [6.3.5-r2]
+[ebuild     U  ] kde-plasma/plasma-browser-integration-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-meta-6.4.5 [6.3.5-r1] USE="X%*" 
+[blocks B      ] <dev-qt/qtsvg-6.9.2:6 ("<dev-qt/qtsvg-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[blocks B      ] <dev-qt/qtdeclarative-6.9.2:6 ("<dev-qt/qtdeclarative-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[blocks B      ] <dev-qt/qtwayland-6.9.2:6 ("<dev-qt/qtwayland-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+[blocks B      ] <dev-qt/qtshadertools-6.9.2:6 ("<dev-qt/qtshadertools-6.9.2:6" is soft blocking dev-qt/qtbase-6.9.2)
+
+!!! Multiple package instances within a single package slot have been pulled
+!!! into the dependency graph, resulting in a slot conflict:
+
+dev-lang/perl:0
+
+  (dev-lang/perl-5.42.0:0/5.42::gentoo, ebuild scheduled for merge) USE="gdbm -berkdb -doc -minimal" ABI_X86="(64)" PERL_FEATURES="(-debug) -ithreads -quadmath" pulled in by
+    =dev-lang/perl-5.42* required by (virtual/perl-CPAN-2.380.0:0/0::gentoo, ebuild scheduled for merge) USE="" ABI_X86="(64)"
+    ^              ^^^^^                                                                                                       
+    (and 28 more with the same problem)
+
+  (dev-lang/perl-5.40.2-1:0/5.40::gentoo, installed) USE="gdbm -berkdb -doc -minimal" ABI_X86="(64)" PERL_FEATURES="(-debug) -ithreads -quadmath" pulled in by
+    dev-lang/perl:0/5.40= required by (dev-perl/Clone-0.470.0-1:0/0::gentoo, installed) USE="-test" ABI_X86="(64)" PERL_FEATURES="(-debug) -ithreads -quadmath"
+                 ^^^^^^^^                                                                                                                                       
+    (and 26 more with the same problem)
+
+dev-qt/qtsvg:6
+
+  (dev-qt/qtsvg-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="-custom-cflags -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtsvg-6.9.2:6 required by (dev-qt/qtdeclarative-6.9.2-r1:6/6.9.2::gentoo, ebuild scheduled for merge) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)"
+    ^             ^^^^^^^                                                                                                                                                                                                  
+
+  (dev-qt/qtsvg-6.9.1-1:6/6.9.1::gentoo, installed) USE="-custom-cflags -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtsvg-6.9.1:6 required by (dev-qt/qtdeclarative-6.9.1-r1-1:6/6.9.1::gentoo, installed) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)"
+    ^             ^^^^^^^                                                                                                                                                                                   
+
+dev-qt/qtdeclarative:6
+
+  (dev-qt/qtdeclarative-6.9.2-r1:6/6.9.2::gentoo, ebuild scheduled for merge) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtdeclarative-6.9.2:6 required by (dev-qt/qtwebchannel-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="qml -custom-cflags -test" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                   
+    (and 11 more with the same problem)
+
+  (dev-qt/qtdeclarative-6.9.1-r1-1:6/6.9.1::gentoo, installed) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)" pulled in by
+    dev-qt/qtdeclarative:6/6.9.1= required by (dev-libs/qcoro-0.12.0-1:0/0::gentoo, installed) USE="dbus network qml -examples -test -websockets" ABI_X86="(64)"
+                        ^^^^^^^^^                                                                                                                                
+
+dev-qt/qtwayland:6
+
+  (dev-qt/qtwayland-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="qml vulkan -accessibility -compositor -custom-cflags -gnome -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtwayland-6.9.2:6 required by (dev-qt/qtbase-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)"
+    ^                 ^^^^^^^                                                                                                                                                                                                                                                                                                                                                                                       
+
+  (dev-qt/qtwayland-6.9.1-1:6/6.9.1::gentoo, installed) USE="qml vulkan -accessibility -compositor -custom-cflags -gnome -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtwayland-6.9.1:6 required by (dev-qt/qtbase-6.9.1-1:6/6.9.1::gentoo, installed) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)"
+    ^                 ^^^^^^^                                                                                                                                                                                                                                                                                                                                                                        
+
+dev-qt/qtbase:6
+
+  (dev-qt/qtbase-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtbase-6.9.2:6[dbus?] required by (dev-qt/qtmultimedia-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="X alsa dbus ffmpeg opengl pipewire pulseaudio qml vulkan wayland -custom-cflags -eglfs -gstreamer -test -v4l -vaapi" ABI_X86="(64)"
+    ^              ^^^^^^^                                                                                                                                                                                                                                     
+    (and 23 more with the same problem)
+
+  (dev-qt/qtbase-6.9.1-1:6/6.9.1::gentoo, installed) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtbase-6.9.1:6[-accessibility,gui,network,opengl,sql,ssl,vulkan,widgets] required by (dev-qt/qtdeclarative-6.9.1-r1-1:6/6.9.1::gentoo, installed) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)"
+    ^              ^^^^^^^                                                                                                                                                                                                                                             
+    (and 3 more with the same problem)
+
+dev-qt/qtshadertools:6
+
+  (dev-qt/qtshadertools-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="-custom-cflags -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtshadertools-6.9.2:6 required by (dev-qt/qtmultimedia-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="X alsa dbus ffmpeg opengl pipewire pulseaudio qml vulkan wayland -custom-cflags -eglfs -gstreamer -test -v4l -vaapi" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                                                                                                              
+    (and 3 more with the same problem)
+
+  (dev-qt/qtshadertools-6.9.1-1:6/6.9.1::gentoo, installed) USE="-custom-cflags -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtshadertools-6.9.1:6 required by (dev-qt/qtdeclarative-6.9.1-r1-1:6/6.9.1::gentoo, installed) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                                                                   
+
+app-emulation/libvirt:0
+
+  (app-emulation/libvirt-11.6.0-r1:0/11.6.0::gentoo, ebuild scheduled for merge) USE="caps libvirtd (policykit) qemu udev virt-network -apparmor -audit -bash-completion -dtrace -firewalld -fuse -glusterfs -iscsi -iscsi-direct -libssh -libssh2 -lvm -lxc -nbd -nfs -nls -numa -parted -pcap -rbd -sasl (-selinux) -test -verify-sig -virtiofsd -virtualbox -wireshark-plugins -xen -zfs" ABI_X86="(64)" pulled in by
+    app-emulation/libvirt:0/11.6.0 required by (dev-python/libvirt-python-11.6.0:0/0::gentoo, ebuild scheduled for merge) USE="-debug -examples -test -verify-sig" ABI_X86="(64)" PYTHON_TARGETS="python3_13 -python3_11 -python3_12 -python3_14"
+                         ^^^^^^^^^                                                                                                                                                                                                                
+
+  (app-emulation/libvirt-11.4.0-r1:0/11.4.0::gentoo, ebuild scheduled for merge) USE="caps libvirtd (policykit) qemu udev virt-network -apparmor -audit -bash-completion -dtrace -firewalld -fuse -glusterfs -iscsi -iscsi-direct -libssh -libssh2 -lvm -lxc -nbd -nfs -nls -numa -parted -pcap -rbd -sasl (-selinux) -test -verify-sig -virtiofsd -virtualbox -wireshark-plugins -xen -zfs" ABI_X86="(64)" pulled in by
+    >=app-emulation/libvirt-2.3.0:0/11.4.0= required by (app-emulation/libvirt-glib-5.0.0-r1-1:0/0::gentoo, installed) USE="introspection vala -gtk-doc -test" ABI_X86="(64)"
+                                 ^^^^^^^^^^                                                                                                                                   
+
+NOTE: Use the '--verbose-conflicts' option to display parents omitted above
+
+It may be possible to solve this problem by using package.mask to
+prevent one of those packages from being selected. However, it is also
+possible that conflicting dependencies exist such that they are
+impossible to satisfy simultaneously.  If such a conflict exists in
+the dependencies of two different packages, then those packages can
+not be installed simultaneously.
+
+For more information, see MASKED PACKAGES section in the emerge man
+page or refer to the Gentoo Handbook.
+
+
+ * Error: The above package list contains packages which cannot be
+ * installed at the same time on the same system.
+
+For more information about Blocked Packages, please refer to the following
+section of the Gentoo Linux x86 Handbook (architecture is irrelevant):
+
+https://wiki.gentoo.org/wiki/Handbook:X86/Working/Portage#Blocked_packages
+
+
+The following USE changes are necessary to proceed:
+ (see "package.use" in the portage(5) man page for more details)
+# required by x11-libs/pango-1.57.0::gentoo
+# required by gui-libs/vte-common-0.80.4::gentoo
+# required by x11-libs/vte-0.80.4::gentoo
+# required by app-emulation/virt-manager-5.1.0::gentoo[gui]
+# required by @selected
+# required by @world (argument)
+>=media-libs/freetype-2.14.1 harfbuzz
+# required by dev-libs/elfutils-0.193::gentoo[lzma]
+# required by virtual/libelf-3-r1::gentoo
+# required by dev-libs/glib-2.84.4::gentoo
+# required by app-emulation/qemu-10.1.0::gentoo
+# required by app-emulation/libvirt-11.4.0-r1::gentoo[qemu]
+# required by app-emulation/libvirt-glib-5.0.0-r1::gentoo
+# required by app-emulation/virt-manager-5.1.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-arch/xz-utils-5.8.1-r1 abi_x86_32
+
+Use --autounmask-write to write changes to config files (honoring
+CONFIG_PROTECT). Carefully examine the list of proposed changes,
+paying special attention to mask or keyword changes that may expose
+experimental or unstable packages.
+
+ * In order to avoid wasting time, backtracking has terminated early
+ * due to the above autounmask change(s). The --autounmask-backtrack=y
+ * option can be used to force further backtracking, but there is no
+ * guarantee that it will produce a solution.
+
+!!! The following installed packages are masked:
+- media-sound/pulseaudio-16.1::gentoo (masked by: package.mask)
+/var/db/repos/gentoo/profiles/package.mask:
+# Andreas Sturmlechner <asturm@gentoo.org> (2025-08-29)
+# Obsolete transitional meta package. Bug #961795. Removal on 2025-09-28.
+
+For more information, see the MASKED PACKAGES section in the emerge
+man page or refer to the Gentoo Handbook.
+
