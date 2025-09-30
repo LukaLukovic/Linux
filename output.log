@@ -1,358 +1,682 @@
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-org.kde.startup: not a reply org.freedesktop.locale1 QDBusMessage(type=Error, service="", error name="org.freedesktop.DBus.Error.ServiceUnknown", error message="The name org.freedesktop.locale1 was not provided by any .service files", signature="s", contents=("The name org.freedesktop.locale1 was not provided by any .service files") )
-dbus-daemon[3018]: [session uid=1000 pid=3018 pidfd=5] Activating service name='org.kde.KSplash' requested by ':1.0' (uid=1000 pid=3019 comm="startplasma-wayland")
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-dbus-daemon[3018]: [session uid=1000 pid=3018 pidfd=5] Activating service name='org.freedesktop.portal.Desktop' requested by ':1.4' (uid=1000 pid=3035 comm="/usr/bin/kcminit_startup")
-dbus-daemon[3018]: [session uid=1000 pid=3018 pidfd=5] Activating service name='org.freedesktop.impl.portal.PermissionStore' requested by ':1.5' (uid=1000 pid=3038 comm="/usr/libexec/xdg-desktop-portal")
-dbus-daemon[3018]: [session uid=1000 pid=3018 pidfd=5] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'
-dbus-daemon[3018]: [session uid=1000 pid=3018 pidfd=5] Activating service name='org.freedesktop.portal.Documents' requested by ':1.5' (uid=1000 pid=3038 comm="/usr/libexec/xdg-desktop-portal")
-dbus-daemon[3018]: [session uid=1000 pid=3018 pidfd=5] Successfully activated service 'org.freedesktop.portal.Documents'
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:00.777: Failed to load RealtimeKit property: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.RealtimeKit1 was not provided by any .service files
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:00.777: Failed to load RealtimeKit property: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.RealtimeKit1 was not provided by any .service files
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:00.777: Failed to load RealtimeKit property: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.RealtimeKit1 was not provided by any .service files
-dbus-daemon[3018]: [session uid=1000 pid=3018 pidfd=5] Activating service name='org.freedesktop.impl.portal.desktop.kde' requested by ':1.5' (uid=1000 pid=3038 comm="/usr/libexec/xdg-desktop-portal")
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-Detected locale "C" with character encoding "ANSI_X3.4-1968", which is not UTF-8.
-Qt depends on a UTF-8 locale, and has switched to "C.UTF-8" instead.
-If this causes problems, reconfigure your locale. See the locale(1) manual
-for more information.
-No backend specified, automatically choosing drm
-kwin_wayland_drm: No suitable DRM devices have been found
-qt.qpa.wayland: "wl-shell" is a deprecated shell extension, prefer using "xdg-shell" if supported by the compositor by setting the environment variable QT_WAYLAND_SHELL_INTEGRATION
-qt.qpa.wayland: "wl-shell" is a deprecated shell extension, prefer using "xdg-shell" if supported by the compositor by setting the environment variable QT_WAYLAND_SHELL_INTEGRATION
-qt.qpa.wayland: "wl-shell" is a deprecated shell extension, prefer using "xdg-shell" if supported by the compositor by setting the environment variable QT_WAYLAND_SHELL_INTEGRATION
-qt.qpa.wayland: Loading shell integration failed.
-qt.qpa.wayland: Attempted to load the following shells QList("xdg-shell", "wl-shell", "ivi-shell", "qt-shell")
-qt.qpa.wayland: Loading shell integration failed.
-qt.qpa.wayland: Attempted to load the following shells QList("xdg-shell", "wl-shell", "ivi-shell", "qt-shell")
-qt.qpa.wayland: Loading shell integration failed.
-qt.qpa.wayland: Attempted to load the following shells QList("xdg-shell", "wl-shell", "ivi-shell", "qt-shell")
-org.kde.startup: "kdeinit5_shutdown" QList() exited with code 255
-startplasma-wayland: Shutting down...
-startplasmacompositor: Shutting down...
-startplasmacompositor: Done.
+setlocale: unsupported locale setting
+setlocale: unsupported locale setting
+
+ * IMPORTANT: 22 config files in '/etc/portage' need updating.
+Calculating dependencies  
+ * IMPORTANT: 29 news items need reading for repository 'gentoo'.
+ * Use eselect news read to view new items.
+
+ * See the CONFIGURATION FILES and CONFIGURATION FILES UPDATE TOOLS
+ * sections of the emerge man page to learn how to update config files.
+. ..... done!
+Dependency resolution took 22.63 s (backtrack: 6/20).
+
+[ebuild  N     ] dev-libs/md4c-0.5.2  USE="md2html -test" 
+[ebuild     U  ] kde-frameworks/extra-cmake-modules-6.18.0 [6.14.0-r1]
+[ebuild  N     ] x11-libs/libXres-1.2.3  USE="-doc" 
+[ebuild     U  ] dev-util/wayland-scanner-1.24.0 [1.23.1]
+[ebuild     U  ] dev-libs/wayland-1.24.0 [1.23.1]
+[blocks b      ] <dev-libs/wayland-1.24.0 ("<dev-libs/wayland-1.24.0" is soft blocking dev-util/wayland-scanner-1.24.0)
+[ebuild     U  ] kde-frameworks/breeze-icons-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/attica-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/plasma-workspace-wallpapers-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/modemmanager-qt-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kwayland-integration-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/ocean-sound-theme-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/ki18n-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kitemmodels-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kquickcharts-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcoreaddons-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kconfig-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kwidgetsaddons-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kdbusaddons-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kirigami-6.18.0 [6.14.1]
+[ebuild     U  ] kde-frameworks/kglobalaccel-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/karchive-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/solid-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kitemviews-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcodecs-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/sonnet-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kdecoration-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/networkmanager-qt-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/syntax-highlighting-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kunitconversion-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kholidays-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kdoctools-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcrash-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/plasma-activities-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/kcompletion-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kpackage-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kfilemetadata-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kpty-6.18.0 [6.14.0]
+[ebuild  N     ] kde-frameworks/kimageformats-6.18.0  USE="-avif -debug -eps -heif -jpeg2k -jpegxl -openexr -raw -test" 
+[ebuild     U  ] kde-frameworks/kservice-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kde-cli-tools-common-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/ktextwidgets-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/plasma-activities-stats-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/kdesu-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kded-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/knotifications-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kjobwidgets-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kwrited-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kpipewire-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/prison-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kwallet-6.18.0 [6.14.1]
+[ebuild     U  ] kde-plasma/ksshaskpass-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kwallet-pam-6.4.5 [6.4.4]
+[ebuild     U  ] dev-qt/qtbase-6.9.2 [6.9.1]
+[ebuild     U  ] dev-qt/qtwayland-6.9.2 [6.9.1]
+[ebuild     U  ] kde-frameworks/kwindowsystem-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kguiaddons-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcolorscheme-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kwallet-runtime-6.18.0 [6.14.1]
+[ebuild     U  ] kde-frameworks/kconfigwidgets-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kiconthemes-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/ksvg-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kdeclarative-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kstatusnotifieritem-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kidletime-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/krunner-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/layer-shell-qt-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/libkscreen-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kwayland-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kdesu-gui-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kde-gtk-config-6.4.5 [6.3.5]
+[ebuild     U  ] dev-qt/qtsvg-6.9.2 [6.9.1]
+[ebuild     U  ] dev-qt/qtshadertools-6.9.2 [6.9.1]
+[ebuild     U  ] kde-frameworks/kxmlgui-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kbookmarks-6.18.0 [6.14.0]
+[ebuild     U  ] dev-qt/qtdeclarative-6.9.2-r1 [6.9.1-r1]
+[ebuild     U  ] kde-frameworks/qqc2-desktop-style-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/qqc2-breeze-style-6.4.5 [6.3.5]
+[ebuild     U  ] dev-qt/qtpositioning-6.9.2 [6.9.1]
+[ebuild  N     ] dev-qt/qtlocation-6.9.2  USE="-custom-cflags -test" 
+[ebuild     U  ] kde-frameworks/kauth-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kio-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/kcmutils-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/libplasma-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/kparts-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kglobalacceld-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma5support-6.4.5 [6.3.5] USE="-ksysguard%" 
+[ebuild     U  ] kde-plasma/kactivitymanagerd-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/knotifyconfig-6.18.0 [6.14.0]
+[ebuild     U  ] kde-frameworks/baloo-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kmenuedit-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/spectacle-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/purpose-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/polkit-kde-agent-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/keditfiletype-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kde-cli-tools-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/knewstuff-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kscreenlocker-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/milou-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/systemsettings-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kgamma-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kscreen-6.4.5 [6.3.5-r1]
+[ebuild     U  ] kde-plasma/print-manager-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-nm-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/ktexteditor-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/libksysguard-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/aurorae-6.4.5 [6.3.5-r1]
+[ebuild     U  ] kde-plasma/kinfocenter-6.4.5 [6.3.5]
+[ebuild     U  ] kde-frameworks/frameworkintegration-6.18.0 [6.14.0]
+[ebuild     U  ] kde-plasma/kdeplasma-addons-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-welcome-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/sddm-kcm-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-pa-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/ksystemstats-6.4.5 [6.3.5] USE="filecaps%*" 
+[ebuild     U  ] kde-plasma/plasma-vault-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-disks-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-systemmonitor-6.4.5 [6.3.5] USE="-test%" 
+[ebuild     U  ] kde-plasma/breeze-6.4.5 [6.3.5-r1]
+[ebuild     U  ] kde-plasma/oxygen-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/kwin-6.4.5 [6.3.5-r1] USE="(X%*)" 
+[ebuild     U  ] kde-plasma/breeze-gtk-6.4.5 [6.3.5]
+[ebuild  N     ] kde-plasma/kwin-x11-6.4.5  USE="handbook lock shortcuts -accessibility -debug -gles2-only -systemd -test" 
+[ebuild     U  ] kde-plasma/plasma-login-sessions-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-integration-6.4.5 [6.3.5]
+[ebuild  N     ] kde-plasma/drkonqi-legacy-6.3.80_p20250417  USE="-debug -test" PYTHON_SINGLE_TARGET="python3_13 -python3_11 -python3_12" 
+[uninstall     ] kde-plasma/drkonqi-6.3.5-r1 
+[blocks b      ] kde-plasma/drkonqi ("kde-plasma/drkonqi" is soft blocking kde-plasma/drkonqi-legacy-6.3.80_p20250417)
+[ebuild     U  ] kde-plasma/plasma-workspace-6.4.5-r1 [6.3.5-r2] USE="X%* ksysguard%*" 
+[ebuild     U  ] kde-plasma/xdg-desktop-portal-kde-6.4.5 [6.3.5-r1]
+[ebuild     U  ] kde-plasma/plasma-desktop-6.4.5 [6.3.5-r1]
+[blocks b      ] <kde-plasma/plasma-desktop-6.3.80 ("<kde-plasma/plasma-desktop-6.3.80" is soft blocking kde-plasma/plasma-workspace-6.4.5-r1)
+[ebuild     U  ] kde-plasma/powerdevil-6.4.5 [6.3.5-r2]
+[ebuild     U  ] kde-plasma/plasma-browser-integration-6.4.5 [6.3.5]
+[ebuild     U  ] kde-plasma/plasma-meta-6.4.5 [6.3.5-r1] USE="X%*" 
+
+!!! Multiple package instances within a single package slot have been pulled
+!!! into the dependency graph, resulting in a slot conflict:
+
+kde-frameworks/kwindowsystem:6
+
+  (kde-frameworks/kwindowsystem-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X wayland -debug -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kwindowsystem-6.16.0:6[X?] required by (kde-plasma/kdesu-gui-6.4.5:0/0::gentoo, ebuild scheduled for merge) USE="X -debug" ABI_X86="(64)"
+    ^^                             ^^^^^^^^                                                                                                                    
+    =kde-frameworks/kwindowsystem-6.18*:6[wayland] required by (kde-frameworks/krunner-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                             ^^^^^^^                                                                                                                                   
+    (and 28 more with the same problems)
+
+  (kde-frameworks/kwindowsystem-6.14.0-1:6/6.14::gentoo, installed) USE="X wayland -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kwindowsystem-6.14*:6[wayland,X] required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                             ^^^^^^^                                                                                                                                                                
+    (and 2 more with the same problem)
+
+dev-qt/qtbase:6
+
+  (dev-qt/qtbase-6.9.1-1:6/6.9.1::gentoo, installed) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)" pulled in by
+    >=dev-qt/qtbase-6.7.2:6/6.9.1=[gui,X] required by (kde-frameworks/kdbusaddons-6.14.0-1:6/6.14::gentoo, installed) USE="X -debug -doc -test" ABI_X86="(64)"
+                         ^^^^^^^^^                                                                                                                             
+    >=dev-qt/qtbase-6.7.2:6/6.9.1=[gui,X] required by (kde-frameworks/kwindowsystem-6.14.0-1:6/6.14::gentoo, installed) USE="X wayland -debug -doc -test" ABI_X86="(64)"
+                         ^^^^^^^^^                                                                                                                                       
+    >=dev-qt/qtbase-6.7.2:6/6.9.1=[X] required by (kde-frameworks/kjobwidgets-6.14.0-1:6/6.14::gentoo, installed) USE="X -debug -doc -test" ABI_X86="(64)"
+                         ^^^^^^^^^                                                                                                                         
+    >=dev-qt/qtbase-6.7.2:6/6.9.1=[dbus,gui,widgets] required by (kde-frameworks/kiconthemes-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)"
+                         ^^^^^^^^^                                                                                                                                                
+    >=dev-qt/qtbase-6.7.2:6/6.9.1=[gui] required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+                         ^^^^^^^^^                                                                                                                                                          
+    >=dev-qt/qtbase-6.8.1:6/6.9.1=[concurrent,dbus,gui,network,widgets] required by (kde-plasma/discover-6.4.4-2:6/6::gentoo, installed) USE="firmware flatpak webengine -debug -snap -telemetry -test" ABI_X86="(64)"
+                         ^^^^^^^^^                                                                                                                                                                                     
+    ~dev-qt/qtbase-6.9.1:6[gui] required by (dev-qt/qtshadertools-6.9.1-1:6/6.9.1::gentoo, installed) USE="-custom-cflags -test" ABI_X86="(64)"
+    ^              ^^^^^^^                                                                                                                      
+    >=dev-qt/qtbase-6.7.2:6/6.9.1=[wayland] required by (kde-frameworks/kguiaddons-6.14.0-1:6/6.14::gentoo, installed) USE="X dbus wayland -debug -doc -test" ABI_X86="(64)"
+                         ^^^^^^^^^                                                                                                                                           
+    >=dev-qt/qtbase-6.7.2:6/6.9.1=[dbus,gui,network,ssl,widgets,xml] required by (kde-frameworks/kxmlgui-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)"
+                         ^^^^^^^^^                                                                                                                                                            
+    >=dev-qt/qtbase-6.7.2:6/6.9.1=[X] required by (kde-frameworks/kglobalaccel-6.14.0-1:6/6.14::gentoo, installed) USE="X -debug -doc -test" ABI_X86="(64)"
+                         ^^^^^^^^^                                                                                                                          
+    (and 22 more with the same problems)
+
+  (dev-qt/qtbase-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtbase-6.9.2:6 required by (dev-qt/qtpositioning-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="qml -custom-cflags -geoclue -nmea -test" ABI_X86="(64)"
+    ^              ^^^^^^^                                                                                                                                                   
+    (and 5 more with the same problem)
+
+dev-qt/qtdeclarative:6
+
+  (dev-qt/qtdeclarative-6.9.1-r1-1:6/6.9.1::gentoo, installed) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtdeclarative-6.9.1:6[widgets] required by (dev-qt/qtwebengine-6.9.1-r1-1:6/6.9.1::gentoo, installed) USE="alsa jumbo-build opengl pdfium pulseaudio qml screencast system-icu vulkan widgets -accessibility -bindist -custom-cflags -designer -geolocation -kerberos -test -vaapi -webdriver" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                                                                                                                                                                         
+    dev-qt/qtdeclarative:6/6.9.1= required by (dev-libs/qcoro-0.12.0-1:0/0::gentoo, installed) USE="dbus network qml -examples -test -websockets" ABI_X86="(64)"
+                        ^^^^^^^^^                                                                                                                                
+    (and 9 more with the same problems)
+
+  (dev-qt/qtdeclarative-6.9.2-r1:6/6.9.2::gentoo, ebuild scheduled for merge) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtdeclarative-6.9.2:6 required by (dev-qt/qtpositioning-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="qml -custom-cflags -geoclue -nmea -test" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                                   
+    (and 1 more with the same problem)
+
+dev-qt/qtsvg:6
+
+  (dev-qt/qtsvg-6.9.1-1:6/6.9.1::gentoo, installed) USE="-custom-cflags -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtsvg-6.9.1:6 required by (dev-qt/qtdeclarative-6.9.1-r1-1:6/6.9.1::gentoo, installed) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)"
+    ^             ^^^^^^^                                                                                                                                                                                   
+
+  (dev-qt/qtsvg-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="-custom-cflags -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtsvg-6.9.2:6 required by (dev-qt/qtdeclarative-6.9.2-r1:6/6.9.2::gentoo, ebuild scheduled for merge) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)"
+    ^             ^^^^^^^                                                                                                                                                                                                  
+
+dev-qt/qtshadertools:6
+
+  (dev-qt/qtshadertools-6.9.1-1:6/6.9.1::gentoo, installed) USE="-custom-cflags -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtshadertools-6.9.1:6 required by (dev-qt/qtmultimedia-6.9.1-1:6/6.9.1::gentoo, installed) USE="X alsa dbus ffmpeg opengl pipewire pulseaudio qml vulkan wayland -custom-cflags -eglfs -gstreamer -test -v4l -vaapi" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                                                                                               
+    (and 3 more with the same problem)
+
+  (dev-qt/qtshadertools-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="-custom-cflags -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtshadertools-6.9.2:6 required by (dev-qt/qtdeclarative-6.9.2-r1:6/6.9.2::gentoo, ebuild scheduled for merge) USE="network opengl sql ssl svg vulkan widgets -accessibility -custom-cflags -jit -qmlls" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                                                                                  
+
+dev-qt/qtwayland:6
+
+  (dev-qt/qtwayland-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="qml vulkan -accessibility -compositor -custom-cflags -gnome -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtwayland-6.9.2:6 required by (dev-qt/qtbase-6.9.2:6/6.9.2::gentoo, ebuild scheduled for merge) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)"
+    ^                 ^^^^^^^                                                                                                                                                                                                                                                                                                                                                                                       
+
+  (dev-qt/qtwayland-6.9.1-1:6/6.9.1::gentoo, installed) USE="qml vulkan -accessibility -compositor -custom-cflags -gnome -test" ABI_X86="(64)" pulled in by
+    ~dev-qt/qtwayland-6.9.1:6 required by (dev-qt/qtbase-6.9.1-1:6/6.9.1::gentoo, installed) USE="X concurrent cups dbus gtk gui icu libinput libproxy mysql network opengl sql sqlite ssl udev vulkan wayland widgets xml (zstd) -accessibility -brotli -custom-cflags -eglfs -evdev -gles2-only -gssapi -journald -nls -oci8 -odbc -postgres -renderdoc -sctp -syslog -test -tslib" ABI_X86="(64)"
+    ^                 ^^^^^^^                                                                                                                                                                                                                                                                                                                                                                        
+    >=dev-qt/qtwayland-6.7.2:6/6.9.1= required by (kde-frameworks/kwindowsystem-6.14.0-1:6/6.14::gentoo, installed) USE="X wayland -debug -doc -test" ABI_X86="(64)"
+                            ^^^^^^^^^                                                                                                                                
+
+kde-frameworks/kcompletion:6
+
+  (kde-frameworks/kcompletion-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kcompletion-6.18*:6 required by (kde-frameworks/ktextwidgets-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -speech -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                                                 
+    >=kde-frameworks/kcompletion-6.16.0:6 required by (kde-plasma/plasma-desktop-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="handbook screencast sdl semantic-desktop -debug -ibus -scim -test -webengine" ABI_X86="(64)" INPUT_DEVICES="-wacom"
+    ^^                           ^^^^^^^^                                                                                                                                                                                                                
+    (and 10 more with the same problems)
+
+  (kde-frameworks/kcompletion-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kcompletion-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                                                     
+    (and 1 more with the same problem)
+
+kde-frameworks/kconfig:6
+
+  (kde-frameworks/kconfig-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="dbus qml -debug -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kconfig-6.16.0:6 required by (kde-plasma/aurorae-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="-debug" ABI_X86="(64)"
+    ^^                       ^^^^^^^^                                                                                                            
+    =kde-frameworks/kconfig-6.18*:6 required by (kde-frameworks/kcmutils-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                       ^^^^^^^                                                                                                                           
+    (and 64 more with the same problems)
+
+  (kde-frameworks/kconfig-6.14.0-1:6/6.14::gentoo, installed) USE="dbus qml -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kconfig-6.14*:6 required by (kde-frameworks/knotifications-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -doc" ABI_X86="(64)"
+    ^                       ^^^^^^^                                                                                                                 
+    (and 11 more with the same problem)
+
+kde-frameworks/kcoreaddons:6
+
+  (kde-frameworks/kcoreaddons-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="dbus -debug -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kcoreaddons-6.18*:6 required by (kde-frameworks/kcrash-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X -debug -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                           
+    >=kde-frameworks/kcoreaddons-6.16.0:6 required by (kde-plasma/oxygen-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="X qt5 -debug" ABI_X86="(64)"
+    ^^                           ^^^^^^^^                                                                                                                 
+    (and 65 more with the same problems)
+
+  (kde-frameworks/kcoreaddons-6.14.0-1:6/6.14::gentoo, installed) USE="dbus -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kcoreaddons-6.14*:6 required by (kde-frameworks/kjobwidgets-6.14.0-1:6/6.14::gentoo, installed) USE="X -debug -doc -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                      
+    (and 10 more with the same problem)
+
+kde-frameworks/kguiaddons:6
+
+  (kde-frameworks/kguiaddons-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X dbus wayland -debug -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kguiaddons-6.18*:6 required by (kde-frameworks/kcolorscheme-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug" ABI_X86="(64)"
+    ^                          ^^^^^^^                                                                                                                         
+    >=kde-frameworks/kguiaddons-6.16.0:6 required by (kde-plasma/plasma-desktop-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="handbook screencast sdl semantic-desktop -debug -ibus -scim -test -webengine" ABI_X86="(64)" INPUT_DEVICES="-wacom"
+    ^^                          ^^^^^^^^                                                                                                                                                                                                                
+    (and 20 more with the same problems)
+
+  (kde-frameworks/kguiaddons-6.14.0-1:6/6.14::gentoo, installed) USE="X dbus wayland -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kguiaddons-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                          ^^^^^^^                                                                                                                                                     
+    (and 3 more with the same problem)
+
+kde-frameworks/ki18n:6
+
+  (kde-frameworks/ki18n-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)" PYTHON_SINGLE_TARGET="python3_13 -python3_11 -python3_12" pulled in by
+    >=kde-frameworks/ki18n-6.16.0:6 required by (kde-plasma/kde-cli-tools-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="X -debug -kdesu" ABI_X86="(64)"
+    ^^                     ^^^^^^^^                                                                                                                           
+    =kde-frameworks/ki18n-6.18*:6 required by (kde-frameworks/kunitconversion-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                  
+    (and 62 more with the same problems)
+
+  (kde-frameworks/ki18n-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -doc -test" ABI_X86="(64)" PYTHON_SINGLE_TARGET="python3_13 -python3_11 -python3_12" pulled in by
+    =kde-frameworks/ki18n-6.14*:6 required by (kde-frameworks/ktextwidgets-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -speech -test" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                       
+    (and 7 more with the same problem)
+
+kde-frameworks/kiconthemes:6
+
+  (kde-frameworks/kiconthemes-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kiconthemes-6.16.0:6 required by (kde-plasma/plasma-desktop-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="handbook screencast sdl semantic-desktop -debug -ibus -scim -test -webengine" ABI_X86="(64)" INPUT_DEVICES="-wacom"
+    ^^                           ^^^^^^^^                                                                                                                                                                                                                
+    =kde-frameworks/kiconthemes-6.18*:6 required by (kde-frameworks/kparts-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                         
+    (and 15 more with the same problems)
+
+  (kde-frameworks/kiconthemes-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kiconthemes-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                                                     
+    (and 2 more with the same problem)
+
+kde-frameworks/kio:6
+
+  (kde-frameworks/kio-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X acl handbook kwallet wayland -debug -designer -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kio-6.18*:6 required by (kde-frameworks/baloo-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                   ^^^^^^^                                                                                                                        
+    >=kde-frameworks/kio-6.16.0-r1:6 required by (kde-plasma/plasma-desktop-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="handbook screencast sdl semantic-desktop -debug -ibus -scim -test -webengine" ABI_X86="(64)" INPUT_DEVICES="-wacom"
+    ^^                   ^^^^^^^^^^^                                                                                                                                                                                                                
+    (and 30 more with the same problems)
+
+  (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kio-6.13.0:6/6.14= required by (kde-apps/dolphin-25.04.3-2:6/6::gentoo, installed) USE="handbook semantic-desktop -debug -telemetry -test" ABI_X86="(64)"
+                               ^^^^^^^^                                                                                                                                        
+
+kde-frameworks/kjobwidgets:6
+
+  (kde-frameworks/kjobwidgets-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X -debug -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kjobwidgets-6.16.0:6 required by (kde-plasma/plasma-browser-integration-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="-debug" ABI_X86="(64)"
+    ^^                           ^^^^^^^^                                                                                                                               
+    =kde-frameworks/kjobwidgets-6.18*:6 required by (kde-frameworks/kparts-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                         
+    (and 10 more with the same problems)
+
+  (kde-frameworks/kjobwidgets-6.14.0-1:6/6.14::gentoo, installed) USE="X -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kjobwidgets-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                                                     
+
+kde-frameworks/knotifications:6
+
+  (kde-frameworks/knotifications-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug" ABI_X86="(64)" pulled in by
+    =kde-frameworks/knotifications-6.18*:6 required by (kde-frameworks/kjobwidgets-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X -debug -test" ABI_X86="(64)"
+    ^                              ^^^^^^^                                                                                                                                
+    >=kde-frameworks/knotifications-6.16.0:6 required by (kde-plasma/kglobalacceld-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="X -debug -test" ABI_X86="(64)"
+    ^^                              ^^^^^^^^                                                                                                                          
+    (and 22 more with the same problems)
+
+  (kde-frameworks/knotifications-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -doc" ABI_X86="(64)" pulled in by
+    =kde-frameworks/knotifications-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                              ^^^^^^^                                                                                                                                                     
+    (and 2 more with the same problem)
+
+kde-frameworks/kxmlgui:6
+
+  (kde-frameworks/kxmlgui-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kxmlgui-6.18*:6 required by (kde-frameworks/kparts-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                       ^^^^^^^                                                                                                                         
+    >=kde-frameworks/kxmlgui-6.16.0:6 required by (kde-plasma/systemsettings-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="handbook -debug" ABI_X86="(64)"
+    ^^                       ^^^^^^^^                                                                                                                            
+    (and 15 more with the same problems)
+
+  (kde-frameworks/kxmlgui-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kxmlgui-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                       ^^^^^^^                                                                                                                                                     
+
+kde-frameworks/kconfigwidgets:6
+
+  (kde-frameworks/kconfigwidgets-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kconfigwidgets-6.18*:6 required by (kde-frameworks/kxmlgui-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)"
+    ^                              ^^^^^^^                                                                                                                                    
+    >=kde-frameworks/kconfigwidgets-6.16.0:6 required by (kde-plasma/plasma-workspace-6.4.5-r1:6/6::gentoo, ebuild scheduled for merge) USE="X calendar fontconfig handbook ksysguard networkmanager (policykit) screencast semantic-desktop wallpaper-metadata -appstream -debug -systemd -telemetry -test" ABI_X86="(64)"
+    ^^                              ^^^^^^^^                                                                                                                                                                                                                                                                                
+    (and 16 more with the same problems)
+
+  (kde-frameworks/kconfigwidgets-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kconfigwidgets-6.14*:6 required by (kde-frameworks/kxmlgui-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)"
+    ^                              ^^^^^^^                                                                                                                          
+
+kde-frameworks/kwidgetsaddons:6
+
+  (kde-frameworks/kwidgetsaddons-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kwidgetsaddons-6.18*:6 required by (kde-frameworks/kio-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X acl handbook kwallet wayland -debug -designer -test" ABI_X86="(64)"
+    ^                              ^^^^^^^                                                                                                                                                               
+    >=kde-frameworks/kwidgetsaddons-6.16.0:6 required by (kde-plasma/oxygen-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="X qt5 -debug" ABI_X86="(64)"
+    ^^                              ^^^^^^^^                                                                                                                 
+    (and 31 more with the same problems)
+
+  (kde-frameworks/kwidgetsaddons-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kwidgetsaddons-6.14*:6 required by (kde-frameworks/kjobwidgets-6.14.0-1:6/6.14::gentoo, installed) USE="X -debug -doc -test" ABI_X86="(64)"
+    ^                              ^^^^^^^                                                                                                                      
+    (and 8 more with the same problem)
+
+kde-frameworks/kauth:6
+
+  (kde-frameworks/kauth-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="(policykit) -debug -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kauth-6.16.0:6 required by (kde-plasma/plasma-desktop-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="handbook screencast sdl semantic-desktop -debug -ibus -scim -test -webengine" ABI_X86="(64)" INPUT_DEVICES="-wacom"
+    ^^                     ^^^^^^^^                                                                                                                                                                                                                
+    =kde-frameworks/kauth-6.18*:6 required by (kde-frameworks/ktexteditor-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="editorconfig -debug -test" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                           
+    (and 11 more with the same problems)
+
+  (kde-frameworks/kauth-6.14.0-1:6/6.14::gentoo, installed) USE="(policykit) -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kauth-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                                     
+
+kde-frameworks/kitemviews:6
+
+  (kde-frameworks/kitemviews-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kitemviews-6.18*:6 required by (kde-frameworks/kxmlgui-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)"
+    ^                          ^^^^^^^                                                                                                                                    
+    >=kde-frameworks/kitemviews-6.16.0:6 required by (kde-plasma/plasma-workspace-6.4.5-r1:6/6::gentoo, ebuild scheduled for merge) USE="X calendar fontconfig handbook ksysguard networkmanager (policykit) screencast semantic-desktop wallpaper-metadata -appstream -debug -systemd -telemetry -test" ABI_X86="(64)"
+    ^^                          ^^^^^^^^                                                                                                                                                                                                                                                                                
+    (and 7 more with the same problems)
+
+  (kde-frameworks/kitemviews-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kitemviews-6.14*:6 required by (kde-frameworks/kxmlgui-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)"
+    ^                          ^^^^^^^                                                                                                                          
+    (and 1 more with the same problem)
+
+kde-frameworks/kservice:6
+
+  (kde-frameworks/kservice-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="man -debug -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kservice-6.16.0:6 required by (kde-plasma/plasma-desktop-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="handbook screencast sdl semantic-desktop -debug -ibus -scim -test -webengine" ABI_X86="(64)" INPUT_DEVICES="-wacom"
+    ^^                        ^^^^^^^^                                                                                                                                                                                                                
+    =kde-frameworks/kservice-6.18*:6 required by (kde-frameworks/kwallet-runtime-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X (keyring) (legacy-kwallet) man -debug -gpg -test" ABI_X86="(64)"
+    ^                        ^^^^^^^                                                                                                                                                                        
+    (and 30 more with the same problems)
+
+  (kde-frameworks/kservice-6.14.0-1:6/6.14::gentoo, installed) USE="man -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kservice-6.14*:6 required by (kde-frameworks/kwallet-runtime-6.14.1-1:6/6.14::gentoo, installed) USE="X (keyring) (legacy-kwallet) man -debug -doc -gpg -test" ABI_X86="(64)"
+    ^                        ^^^^^^^                                                                                                                                                              
+    (and 2 more with the same problem)
+
+kde-frameworks/kdbusaddons:6
+
+  (kde-frameworks/kdbusaddons-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X -debug -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kdbusaddons-6.16.0:6 required by (kde-plasma/kwrited-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="-debug" ABI_X86="(64)"
+    ^^                           ^^^^^^^^                                                                                                            
+    =kde-frameworks/kdbusaddons-6.18*:6 required by (kde-frameworks/baloo-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                        
+    (and 26 more with the same problems)
+
+  (kde-frameworks/kdbusaddons-6.14.0-1:6/6.14::gentoo, installed) USE="X -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kdbusaddons-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                           ^^^^^^^                                                                                                                                                     
+    (and 2 more with the same problem)
+
+kde-frameworks/kdoctools:6
+
+  (kde-frameworks/kdoctools-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -nls -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kdoctools-6.18*:6 required by (kde-frameworks/kio-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X acl handbook kwallet wayland -debug -designer -test" ABI_X86="(64)"
+    ^                         ^^^^^^^                                                                                                                                                               
+    >=kde-frameworks/kdoctools-6.18:6 required by (kde-frameworks/kded-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="man -debug" ABI_X86="(64)"
+    ^^                         ^^^^^^                                                                                                                     
+    (and 17 more with the same problems)
+
+  (kde-frameworks/kdoctools-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -nls -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kdoctools-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                         ^^^^^^^                                                                                                                                                     
+
+kde-frameworks/karchive:6
+
+  (kde-frameworks/karchive-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="crypt zstd -debug -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/karchive-6.18*:6 required by (kde-frameworks/kdoctools-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -nls -test" ABI_X86="(64)"
+    ^                        ^^^^^^^                                                                                                                                 
+    >=kde-frameworks/karchive-6.16.0:6 required by (kde-plasma/libplasma-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="-debug -doc -gles2-only -test" ABI_X86="(64)"
+    ^^                        ^^^^^^^^                                                                                                                                     
+    (and 11 more with the same problems)
+
+  (kde-frameworks/karchive-6.14.0-1:6/6.14::gentoo, installed) USE="crypt zstd -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/karchive-6.14*:6 required by (kde-frameworks/kiconthemes-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)"
+    ^                        ^^^^^^^                                                                                                                              
+    (and 2 more with the same problem)
+
+kde-frameworks/kglobalaccel:6
+
+  (kde-frameworks/kglobalaccel-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X -debug -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kglobalaccel-6.18*:6 required by (kde-frameworks/kdeclarative-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug" ABI_X86="(64)"
+    ^                            ^^^^^^^                                                                                                                         
+    >=kde-frameworks/kglobalaccel-6.16.0:6 required by (kde-plasma/kscreenlocker-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^^                            ^^^^^^^^                                                                                                                        
+    (and 14 more with the same problems)
+
+  (kde-frameworks/kglobalaccel-6.14.0-1:6/6.14::gentoo, installed) USE="X -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kglobalaccel-6.14*:6 required by (kde-frameworks/kxmlgui-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)"
+    ^                            ^^^^^^^                                                                                                                          
+
+kde-frameworks/kcrash:6
+
+  (kde-frameworks/kcrash-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X -debug -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kcrash-6.16.0:6 required by (kde-plasma/plasma-browser-integration-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="-debug" ABI_X86="(64)"
+    ^^                      ^^^^^^^^                                                                                                                               
+    =kde-frameworks/kcrash-6.18*:6 required by (kde-frameworks/kded-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="man -debug" ABI_X86="(64)"
+    ^                      ^^^^^^^                                                                                                                     
+    (and 19 more with the same problems)
+
+  (kde-frameworks/kcrash-6.14.0-1:6/6.14::gentoo, installed) USE="X -debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kcrash-6.14*:6 required by (kde-frameworks/kwallet-runtime-6.14.1-1:6/6.14::gentoo, installed) USE="X (keyring) (legacy-kwallet) man -debug -doc -gpg -test" ABI_X86="(64)"
+    ^                      ^^^^^^^                                                                                                                                                              
+    (and 1 more with the same problem)
+
+kde-frameworks/kcodecs:6
+
+  (kde-frameworks/kcodecs-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kcodecs-6.18*:6 required by (kde-frameworks/kcompletion-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)"
+    ^                       ^^^^^^^                                                                                                                                        
+    >=kde-frameworks/kcodecs-6.16.0:6 required by (kde-plasma/plasma-vault-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="networkmanager -debug" ABI_X86="(64)"
+    ^^                       ^^^^^^^^                                                                                                                                
+    (and 5 more with the same problems)
+
+  (kde-frameworks/kcodecs-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kcodecs-6.14*:6 required by (kde-frameworks/kcompletion-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)"
+    ^                       ^^^^^^^                                                                                                                              
+    (and 2 more with the same problem)
+
+kde-frameworks/kbookmarks:6
+
+  (kde-frameworks/kbookmarks-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kbookmarks-6.16.0:6 required by (kde-plasma/plasma-desktop-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="handbook screencast sdl semantic-desktop -debug -ibus -scim -test -webengine" ABI_X86="(64)" INPUT_DEVICES="-wacom"
+    ^^                          ^^^^^^^^                                                                                                                                                                                                                
+    =kde-frameworks/kbookmarks-6.18*:6 required by (kde-frameworks/kio-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X acl handbook kwallet wayland -debug -designer -test" ABI_X86="(64)"
+    ^                          ^^^^^^^                                                                                                                                                               
+    (and 1 more with the same problems)
+
+  (kde-frameworks/kbookmarks-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kbookmarks-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                          ^^^^^^^                                                                                                                                                     
+
+kde-frameworks/ktextwidgets:6
+
+  (kde-frameworks/ktextwidgets-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -speech -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/ktextwidgets-6.16.0:6 required by (kde-plasma/plasma-workspace-6.4.5-r1:6/6::gentoo, ebuild scheduled for merge) USE="X calendar fontconfig handbook ksysguard networkmanager (policykit) screencast semantic-desktop wallpaper-metadata -appstream -debug -systemd -telemetry -test" ABI_X86="(64)"
+    ^^                            ^^^^^^^^                                                                                                                                                                                                                                                                                
+    =kde-frameworks/ktextwidgets-6.18*:6 required by (kde-frameworks/kio-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X acl handbook kwallet wayland -debug -designer -test" ABI_X86="(64)"
+    ^                            ^^^^^^^                                                                                                                                                               
+
+  (kde-frameworks/ktextwidgets-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -speech -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/ktextwidgets-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                            ^^^^^^^                                                                                                                                                     
+
+kde-frameworks/solid:6
+
+  (kde-frameworks/solid-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -ios -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/solid-6.16.0:6 required by (kde-plasma/kscreenlocker-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^^                     ^^^^^^^^                                                                                                                        
+    =kde-frameworks/solid-6.18*:6 required by (kde-frameworks/baloo-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                        
+    (and 10 more with the same problems)
+
+  (kde-frameworks/solid-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -doc -ios -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/solid-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                     ^^^^^^^                                                                                                                                                     
+
+kde-frameworks/kwallet:6
+
+  (kde-frameworks/kwallet-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -minimal -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/kwallet-6.16.0:6 required by (kde-plasma/plasma-nm-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="-debug -openconnect -teamd -test" ABI_X86="(64)"
+    ^^                       ^^^^^^^^                                                                                                                                        
+    =kde-frameworks/kwallet-6.18*:6 required by (kde-frameworks/kio-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X acl handbook kwallet wayland -debug -designer -test" ABI_X86="(64)"
+    ^                       ^^^^^^^                                                                                                                                                               
+    (and 4 more with the same problems)
+
+  (kde-frameworks/kwallet-6.14.1-1:6/6.14::gentoo, installed) USE="-debug -doc -minimal -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kwallet-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                       ^^^^^^^                                                                                                                                                     
+    (and 1 more with the same problem)
+
+kde-frameworks/sonnet:6
+
+  (kde-frameworks/sonnet-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="hunspell qml -aspell -debug -designer -test" ABI_X86="(64)" pulled in by
+    >=kde-frameworks/sonnet-6.16.0:6 required by (kde-plasma/kdeplasma-addons-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="alternate-calendar handbook -debug -share -webengine" ABI_X86="(64)"
+    ^^                      ^^^^^^^^                                                                                                                                                                   
+    =kde-frameworks/sonnet-6.18*:6[qml] required by (kde-frameworks/qqc2-desktop-style-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                      ^^^^^^^                                                                                                                                          
+    (and 4 more with the same problems)
+
+  (kde-frameworks/sonnet-6.14.0-1:6/6.14::gentoo, installed) USE="hunspell qml -aspell -debug -designer -doc -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/sonnet-6.14*:6 required by (kde-frameworks/ktextwidgets-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -speech -test" ABI_X86="(64)"
+    ^                      ^^^^^^^                                                                                                                                       
+
+kde-frameworks/kwallet-runtime:6
+
+  (kde-frameworks/kwallet-runtime-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="X (keyring) (legacy-kwallet) man -debug -gpg -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kwallet-runtime-6.18* required by (kde-frameworks/kwallet-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -minimal -test" ABI_X86="(64)"
+    ^                               ^^^^^                                                                                                                                   
+
+  (kde-frameworks/kwallet-runtime-6.14.1-1:6/6.14::gentoo, installed) USE="X (keyring) (legacy-kwallet) man -debug -doc -gpg -test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kwallet-runtime-6.14* required by (kde-frameworks/kwallet-6.14.1-1:6/6.14::gentoo, installed) USE="-debug -doc -minimal -test" ABI_X86="(64)"
+    ^                               ^^^^^                                                                                                                         
+
+kde-frameworks/kcolorscheme:6
+
+  (kde-frameworks/kcolorscheme-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kcolorscheme-6.18*:6 required by (kde-frameworks/qqc2-desktop-style-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -test" ABI_X86="(64)"
+    ^                            ^^^^^^^                                                                                                                                     
+    >=kde-frameworks/kcolorscheme-6.16.0:6 required by (kde-plasma/kwin-x11-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="handbook lock shortcuts -accessibility -debug -gles2-only -systemd -test" ABI_X86="(64)"
+    ^^                            ^^^^^^^^                                                                                                                                                                               
+    (and 17 more with the same problems)
+
+  (kde-frameworks/kcolorscheme-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -doc" ABI_X86="(64)" pulled in by
+    =kde-frameworks/kcolorscheme-6.14*:6 required by (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed) USE="X acl handbook kwallet wayland -debug -designer -doc -test" ABI_X86="(64)"
+    ^                            ^^^^^^^                                                                                                                                                     
+    (and 3 more with the same problem)
+
+kde-frameworks/breeze-icons:6
+
+  (kde-frameworks/breeze-icons-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/breeze-icons-6.18*:6 required by (kde-frameworks/kiconthemes-6.18.0:6/6.18::gentoo, ebuild scheduled for merge) USE="-debug -designer -test" ABI_X86="(64)"
+    ^                            ^^^^^^^                                                                                                                                        
+    >=kde-frameworks/breeze-icons-6.16.0:* required by (kde-plasma/breeze-6.4.5:6/6::gentoo, ebuild scheduled for merge) USE="qt5 -debug" ABI_X86="(64)"
+    ^^                            ^^^^^^ ^                                                                                                               
+
+  (kde-frameworks/breeze-icons-6.14.0-1:6/6.14::gentoo, installed) USE="-test" ABI_X86="(64)" pulled in by
+    =kde-frameworks/breeze-icons-6.14*:6 required by (kde-frameworks/kiconthemes-6.14.0-1:6/6.14::gentoo, installed) USE="-debug -designer -doc -test" ABI_X86="(64)"
+    ^                            ^^^^^^^                                                                                                                              
+
+NOTE: Use the '--verbose-conflicts' option to display parents omitted above
+
+!!! The slot conflict(s) shown above involve package(s) which may need to
+!!! be rebuilt in order to solve the conflict(s). However, the following
+!!! package(s) cannot be rebuilt for the reason(s) shown:
+
+  (kde-frameworks/kio-6.14.0-1:6/6.14::gentoo, installed): ebuild is masked or unavailable
+  (kde-frameworks/kdbusaddons-6.14.0-1:6/6.14::gentoo, installed): ebuild is masked or unavailable
+  (kde-plasma/discover-6.4.4-2:6/6::gentoo, installed): ebuild is masked or unavailable
+  (kde-frameworks/kxmlgui-6.14.0-1:6/6.14::gentoo, installed): ebuild is masked or unavailable
+  (kde-frameworks/kwindowsystem-6.14.0-1:6/6.14::gentoo, installed): ebuild is masked or unavailable
+  (kde-frameworks/kguiaddons-6.14.0-1:6/6.14::gentoo, installed): ebuild is masked or unavailable
+  (kde-frameworks/kiconthemes-6.14.0-1:6/6.14::gentoo, installed): ebuild is masked or unavailable
+  (kde-frameworks/kjobwidgets-6.14.0-1:6/6.14::gentoo, installed): ebuild is masked or unavailable
+  (kde-frameworks/kglobalaccel-6.14.0-1:6/6.14::gentoo, installed): ebuild is masked or unavailable
+
+
+It may be possible to solve this problem by using package.mask to
+prevent one of those packages from being selected. However, it is also
+possible that conflicting dependencies exist such that they are
+impossible to satisfy simultaneously.  If such a conflict exists in
+the dependencies of two different packages, then those packages can
+not be installed simultaneously. You may want to try a larger value of
+the --backtrack option, such as --backtrack=30, in order to see if
+that will solve this conflict automatically.
+
+For more information, see MASKED PACKAGES section in the emerge man
+page or refer to the Gentoo Handbook.
+
+
+!!! The following installed packages are masked:
+- virtual/perl-Unicode-Collate-1.310.0-r2::gentoo (masked by: package.mask)
+/var/db/repos/gentoo/profiles/package.mask:
+# Andreas K. Hüttel <dilfridge@gentoo.org> (2025-07-04)
+# Obsolete Perl virtuals that will be removed (the list is work in progress).
+# If you have any of these installed, just remove them; they should not be
+# required anymore.
+
+- virtual/perl-Parse-CPAN-Meta-2.150.10-r8::gentoo (masked by: package.mask)
+- dev-python/pygobject-3.52.3::gentoo (masked by: package.mask)
+/var/db/repos/gentoo/profiles/package.mask:
+# Sam James <sam@gentoo.org> (2025-06-12)
+# Breaks several applications (bug #957943)
+
+- media-sound/pulseaudio-16.1::gentoo (masked by: package.mask)
+/var/db/repos/gentoo/profiles/package.mask:
+# Andreas Sturmlechner <asturm@gentoo.org> (2025-08-29)
+# Obsolete transitional meta package. Bug #961795. Removal on 2025-09-28.
+
+For more information, see the MASKED PACKAGES section in the emerge
+man page or refer to the Gentoo Handbook.
 
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.705: Failed to create settings proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-WARNING **: 02:49:01.705: GError set over the top of a previous GError or uninitialized memory.
-This indicates a bug in someone's code. You must ensure an error is NULL before it's set.
-The overwriting error message was: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.gtk: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.705: Failed to create settings proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.705: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.705: Failed to create file chooser proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.705: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.705: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.706: Failed to create app chooser proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.706: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.706: Failed to create print proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.706: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found.
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found.
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.706: Failed to create notification proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.706: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.706: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.706: Failed to create inhibit proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.706: No skeleton to export
-qt.qpa.plugin: Could not load the Qt platform plugin "wayland" in "" even though it was found.
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed connect to PipeWire: Couldn't connect to PipeWire
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-qt.qpa.xcb: could not connect to display :0
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create access proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
-qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
-
-Available platform plugins are: wayland, vnc, wayland-egl, linuxfb, offscreen, xcb, minimal, vkkhrdisplay.
-
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create screenshot proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create access proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create account proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-qt.qpa.xcb: could not connect to display :0
-qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
-qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
-This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
-
-Available platform plugins are: wayland, vnc, wayland-egl, linuxfb, offscreen, xcb, minimal, vkkhrdisplay.
-
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create email proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create secret proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kwallet: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create global_shortcuts proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create dynamic_launcher proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create screen cast proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending GetNameOwner() message: The connection is closed
-qt.qpa.xcb: could not connect to display :0
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connection is closed
-qt.qpa.plugin: From 6.5.0, xcb-cursor0 or libxcb-cursor0 is needed to load the Qt xcb platform plugin.
-qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found.
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.708: Error while sending AddMatch() message: The connectThis application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this pion is closed
-roblem.
-
-Available platform plugins are: wayland, vnc, wayland-egl, linuxfb, offscreen, xcb, minimal, vkkhrdisplay.
-
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: Failed to create remote desktop proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.708: No skeleton to export
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.709: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.709: Error while sending GetNameOwner() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.709: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): GLib-GIO-CRITICAL **: 02:49:01.709: Error while sending AddMatch() message: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.709: Failed to create capture input proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
-
-(/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.709: No skeleton to export
-org.kde.plasma.waitforname: WaitForName: Service was not registered within timeout
