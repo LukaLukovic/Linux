@@ -355,3 +355,4 @@ Available platform plugins are: wayland, vnc, wayland-egl, linuxfb, offscreen, x
 (/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.709: Failed to create capture input proxy: Error calling StartServiceByName for org.freedesktop.impl.portal.desktop.kde: The connection is closed
 
 (/usr/libexec/xdg-desktop-portal:3038): xdg-desktop-portal-WARNING **: 02:49:01.709: No skeleton to export
+org.kde.plasma.waitforname: WaitForName: Service was not registered within timeout
